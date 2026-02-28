@@ -951,3 +951,15 @@
 {"state":"Kerala","sector":"Agriculture","total_allocation":3845.14,"event_count":8,"avg_allocation":480.6425,"diff":1,"time":1772296396784}
 {"state":"Kerala","sector":"Healthcare","total_allocation":3595.72,"event_count":8,"avg_allocation":449.465,"diff":-1,"time":1772296398284}
 {"state":"Kerala","sector":"Healthcare","total_allocation":4071.81,"event_count":9,"avg_allocation":452.42333333333335,"diff":1,"time":1772296398284}
+{"state":"Rajasthan","sector":"Transport","total_allocation":6097.72,"event_count":8,"avg_allocation":762.215,"diff":-1,"time":1772296398488}
+{"state":"Rajasthan","sector":"Transport","total_allocation":7098.16,"event_count":9,"avg_allocation":788.6844444444445,"diff":1,"time":1772296398488}
+{"state":"Tamil Nadu","sector":"Sanitation","total_allocation":214.5,"event_count":1,"avg_allocation":214.5,"diff":-1,"time":1772296399784}
+{"state":"Tamil Nadu","sector":"Sanitation","total_allocation":405.55,"event_count":2,"avg_allocation":202.775,"diff":1,"time":1772296399784}
+{"state":"Kerala","sector":"Healthcare","total_allocation":4071.81,"event_count":9,"avg_allocation":452.42333333333335,"diff":-1,"time":1772296401284}
+{"state":"Kerala","sector":"Healthcare","total_allocation":4550.73,"event_count":10,"avg_allocation":455.073,"diff":1,"time":1772296401284}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":2556.8,"event_count":6,"avg_allocation":426.1333333333334,"diff":-1,"time":1772296402784}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":2812.31,"event_count":7,"avg_allocation":401.75857142857143,"diff":1,"time":1772296402784}
+{"state":"Telangana","sector":"Transport","total_allocation":5260.62,"event_count":6,"avg_allocation":876.77,"diff":-1,"time":1772296404284}
+{"state":"Telangana","sector":"Transport","total_allocation":5580.87,"event_count":7,"avg_allocation":797.2671428571429,"diff":1,"time":1772296404284}
+{"state":"Telangana","sector":"Transport","total_allocation":5580.87,"event_count":7,"avg_allocation":797.2671428571429,"diff":-1,"time":1772296405784}
+{"state":"Telangana","sector":"Transport","total_allocation":6439.07,"event_count":8,"avg_allocation":804.88375,"diff":1,"time":1772296405784}
