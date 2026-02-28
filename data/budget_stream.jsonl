@@ -597,3 +597,16 @@
 {"state": "Kerala", "sector": "Water", "allocation": 348.38, "contractor": "HydroForce Inc", "timestamp": 1772296520}
 {"state": "West Bengal", "sector": "Transport", "allocation": 1173.18, "contractor": "AquaWorks India", "timestamp": 1772296521}
 {"state": "Telangana", "sector": "Renewable Energy", "allocation": 448.18, "contractor": "GreenInfra Ltd", "timestamp": 1772296523}
+{"state": "Telangana", "sector": "Agriculture", "allocation": 371.54, "contractor": "GreenInfra Ltd", "timestamp": 1772296524}
+{"state": "Rajasthan", "sector": "Agriculture", "allocation": 434.4, "contractor": "HydroForce Inc", "timestamp": 1772296526}
+{"state": "Gujarat", "sector": "Healthcare", "allocation": 334.99, "contractor": "AquaWorks India", "timestamp": 1772296527}
+{"state": "Karnataka", "sector": "Agriculture", "allocation": 553.89, "contractor": "BharatBuild Corp", "timestamp": 1772296529}
+{"state": "Andhra Pradesh", "sector": "Renewable Energy", "allocation": 1142.88, "contractor": "GreenInfra Ltd", "timestamp": 1772296530}
+{"state": "Telangana", "sector": "Electricity", "allocation": 429.26, "contractor": "GreenInfra Ltd", "timestamp": 1772296532}
+{"state": "Karnataka", "sector": "Electricity", "allocation": 567.78, "contractor": "BharatBuild Corp", "timestamp": 1772296533}
+{"state": "Andhra Pradesh", "sector": "Renewable Energy", "allocation": 927.44, "contractor": "AquaWorks India", "timestamp": 1772296535}
+{"state": "Telangana", "sector": "Healthcare", "allocation": 434.02, "contractor": "SmartGrid Co", "timestamp": 1772296536}
+{"state": "Maharashtra", "sector": "Renewable Energy", "allocation": 1259.96, "contractor": "EcoPower Solutions", "timestamp": 1772296538}
+{"state": "West Bengal", "sector": "Renewable Energy", "allocation": 738.32, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296539}
+{"state": "Andhra Pradesh", "sector": "Renewable Energy", "allocation": 528.76, "contractor": "HydroForce Inc", "timestamp": 1772296541}
+{"state": "Tamil Nadu", "sector": "Healthcare", "allocation": 184.79, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296542}

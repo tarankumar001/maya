@@ -1117,3 +1117,29 @@
 {"state":"West Bengal","sector":"Transport","total_allocation":16459.52,"event_count":9,"avg_allocation":1828.8355555555556,"diff":1,"time":1772296521284}
 {"state":"Telangana","sector":"Renewable Energy","total_allocation":26234.26,"event_count":10,"avg_allocation":2623.426,"diff":-1,"time":1772296522784}
 {"state":"Telangana","sector":"Renewable Energy","total_allocation":26682.44,"event_count":11,"avg_allocation":2425.6763636363635,"diff":1,"time":1772296522784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":6847.59,"event_count":14,"avg_allocation":489.11357142857145,"diff":-1,"time":1772296524284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":7219.13,"event_count":15,"avg_allocation":481.2753333333333,"diff":1,"time":1772296524284}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":4665.51,"event_count":8,"avg_allocation":583.18875,"diff":-1,"time":1772296525784}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":5099.91,"event_count":9,"avg_allocation":566.6566666666666,"diff":1,"time":1772296525784}
+{"state":"Gujarat","sector":"Healthcare","total_allocation":2163.3199999999997,"event_count":4,"avg_allocation":540.8299999999999,"diff":-1,"time":1772296527284}
+{"state":"Gujarat","sector":"Healthcare","total_allocation":2498.31,"event_count":5,"avg_allocation":499.662,"diff":1,"time":1772296527284}
+{"state":"Karnataka","sector":"Agriculture","total_allocation":9178.08,"event_count":3,"avg_allocation":3059.36,"diff":-1,"time":1772296529090}
+{"state":"Karnataka","sector":"Agriculture","total_allocation":9731.970000000001,"event_count":4,"avg_allocation":2432.9925000000003,"diff":1,"time":1772296529090}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":5138.78,"event_count":5,"avg_allocation":1027.7559999999999,"diff":-1,"time":1772296530284}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":6281.66,"event_count":6,"avg_allocation":1046.9433333333334,"diff":1,"time":1772296530284}
+{"state":"Telangana","sector":"Electricity","total_allocation":19150.5,"event_count":10,"avg_allocation":1915.05,"diff":-1,"time":1772296531784}
+{"state":"Telangana","sector":"Electricity","total_allocation":19579.76,"event_count":11,"avg_allocation":1779.9781818181816,"diff":1,"time":1772296531784}
+{"state":"Karnataka","sector":"Electricity","total_allocation":2179.21,"event_count":4,"avg_allocation":544.8025,"diff":-1,"time":1772296533284}
+{"state":"Karnataka","sector":"Electricity","total_allocation":2746.99,"event_count":5,"avg_allocation":549.3979999999999,"diff":1,"time":1772296533284}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":6281.66,"event_count":6,"avg_allocation":1046.9433333333334,"diff":-1,"time":1772296534784}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":7152.55,"event_count":7,"avg_allocation":1021.7928571428572,"diff":1,"time":1772296534784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":7577.97,"event_count":11,"avg_allocation":688.9063636363636,"diff":-1,"time":1772296536284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":8011.99,"event_count":12,"avg_allocation":667.6658333333334,"diff":1,"time":1772296536284}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":43584.64,"event_count":13,"avg_allocation":3352.6646153846154,"diff":-1,"time":1772296537784}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":44844.6,"event_count":14,"avg_allocation":3203.1857142857143,"diff":1,"time":1772296537784}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":21088.420000000002,"event_count":6,"avg_allocation":3514.736666666667,"diff":-1,"time":1772296539284}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":21530.39,"event_count":7,"avg_allocation":3075.77,"diff":1,"time":1772296539284}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":7152.55,"event_count":7,"avg_allocation":1021.7928571428572,"diff":-1,"time":1772296540784}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":7681.31,"event_count":8,"avg_allocation":960.16375,"diff":1,"time":1772296540784}
+{"state":"Tamil Nadu","sector":"Healthcare","total_allocation":2313.48,"event_count":6,"avg_allocation":385.58,"diff":-1,"time":1772296542284}
+{"state":"Tamil Nadu","sector":"Healthcare","total_allocation":2498.27,"event_count":7,"avg_allocation":356.8957142857143,"diff":1,"time":1772296542284}
