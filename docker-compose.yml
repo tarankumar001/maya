@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  green-bharat:
+    build: .
+    container_name: green-bharat-auditor
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      # Persist streaming data and outputs across restarts
+      - ./data:/app/data
+      - ./output:/app/output
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/status"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 25s

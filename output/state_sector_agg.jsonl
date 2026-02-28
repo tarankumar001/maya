@@ -1,0 +1,821 @@
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":1477.18,"event_count":1,"avg_allocation":1477.18,"diff":1,"time":1772295628844}
+{"state":"Uttar Pradesh","sector":"Transport","total_allocation":338.06,"event_count":1,"avg_allocation":338.06,"diff":1,"time":1772295628844}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":216.28,"event_count":1,"avg_allocation":216.28,"diff":1,"time":1772295628844}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":645.92,"event_count":1,"avg_allocation":645.92,"diff":1,"time":1772295628844}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":300.79,"event_count":1,"avg_allocation":300.79,"diff":1,"time":1772295628844}
+{"state":"Kerala","sector":"Water","total_allocation":262.58,"event_count":1,"avg_allocation":262.58,"diff":1,"time":1772295630284}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":377.75,"event_count":1,"avg_allocation":377.75,"diff":1,"time":1772295631784}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":684.4,"event_count":1,"avg_allocation":684.4,"diff":1,"time":1772295633284}
+{"state":"Gujarat","sector":"Water","total_allocation":256.11,"event_count":1,"avg_allocation":256.11,"diff":1,"time":1772295634784}
+{"state":"West Bengal","sector":"Water","total_allocation":302.63,"event_count":1,"avg_allocation":302.63,"diff":1,"time":1772295636284}
+{"state":"Kerala","sector":"Healthcare","total_allocation":4532.38,"event_count":1,"avg_allocation":4532.38,"diff":1,"time":1772295637784}
+{"state":"Rajasthan","sector":"Transport","total_allocation":871.38,"event_count":1,"avg_allocation":871.38,"diff":1,"time":1772295639284}
+{"state":"Gujarat","sector":"Transport","total_allocation":832.14,"event_count":1,"avg_allocation":832.14,"diff":1,"time":1772295640784}
+{"state":"Telangana","sector":"Electricity","total_allocation":525.68,"event_count":1,"avg_allocation":525.68,"diff":1,"time":1772295642284}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":889.91,"event_count":1,"avg_allocation":889.91,"diff":1,"time":1772295642642}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":230.32,"event_count":1,"avg_allocation":230.32,"diff":1,"time":1772295643784}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":437.28,"event_count":1,"avg_allocation":437.28,"diff":1,"time":1772295645284}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":437.28,"event_count":1,"avg_allocation":437.28,"diff":-1,"time":1772295648284}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":962.26,"event_count":2,"avg_allocation":481.13,"diff":1,"time":1772295648284}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":151.61,"event_count":1,"avg_allocation":151.61,"diff":1,"time":1772295649784}
+{"state":"Telangana","sector":"Transport","total_allocation":947.54,"event_count":1,"avg_allocation":947.54,"diff":1,"time":1772295651284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":519.77,"event_count":1,"avg_allocation":519.77,"diff":1,"time":1772295652784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":523.13,"event_count":1,"avg_allocation":523.13,"diff":1,"time":1772295654284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":519.77,"event_count":1,"avg_allocation":519.77,"diff":-1,"time":1772295655784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":879.06,"event_count":2,"avg_allocation":439.53,"diff":1,"time":1772295655784}
+{"state":"Karnataka","sector":"Education","total_allocation":278.19,"event_count":1,"avg_allocation":278.19,"diff":1,"time":1772295657284}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":375.72,"event_count":1,"avg_allocation":375.72,"diff":1,"time":1772295658784}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":1199.43,"event_count":1,"avg_allocation":1199.43,"diff":1,"time":1772295660284}
+{"state":"Andhra Pradesh","sector":"Sanitation","total_allocation":116.83,"event_count":1,"avg_allocation":116.83,"diff":1,"time":1772295661784}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":798.02,"event_count":1,"avg_allocation":798.02,"diff":1,"time":1772295663284}
+{"state":"Kerala","sector":"Agriculture","total_allocation":248.56,"event_count":1,"avg_allocation":248.56,"diff":1,"time":1772295664784}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":312.66,"event_count":1,"avg_allocation":312.66,"diff":1,"time":1772295665256}
+{"state":"Karnataka","sector":"Education","total_allocation":278.19,"event_count":1,"avg_allocation":278.19,"diff":-1,"time":1772295667784}
+{"state":"Karnataka","sector":"Education","total_allocation":565.02,"event_count":2,"avg_allocation":282.51,"diff":1,"time":1772295667784}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":421.12,"event_count":1,"avg_allocation":421.12,"diff":1,"time":1772295669284}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":684.4,"event_count":1,"avg_allocation":684.4,"diff":-1,"time":1772295670784}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":1876.7199999999998,"event_count":2,"avg_allocation":938.3599999999999,"diff":1,"time":1772295670784}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":9702.15,"event_count":1,"avg_allocation":9702.15,"diff":1,"time":1772295672284}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":8348.92,"event_count":1,"avg_allocation":8348.92,"diff":1,"time":1772295673784}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":427.45,"event_count":1,"avg_allocation":427.45,"diff":1,"time":1772295675284}
+{"state":"Uttar Pradesh","sector":"Transport","total_allocation":338.06,"event_count":1,"avg_allocation":338.06,"diff":-1,"time":1772295676784}
+{"state":"Uttar Pradesh","sector":"Transport","total_allocation":1416.23,"event_count":2,"avg_allocation":708.115,"diff":1,"time":1772295676784}
+{"state":"Telangana","sector":"Sanitation","total_allocation":268.62,"event_count":1,"avg_allocation":268.62,"diff":1,"time":1772295678284}
+{"state":"Maharashtra","sector":"Education","total_allocation":325.64,"event_count":1,"avg_allocation":325.64,"diff":1,"time":1772295679784}
+{"state":"Telangana","sector":"Education","total_allocation":342.28,"event_count":1,"avg_allocation":342.28,"diff":1,"time":1772295681284}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":8348.92,"event_count":1,"avg_allocation":8348.92,"diff":-1,"time":1772295682784}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":8915.8,"event_count":2,"avg_allocation":4457.9,"diff":1,"time":1772295682784}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":151.61,"event_count":1,"avg_allocation":151.61,"diff":-1,"time":1772295684284}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":316.9,"event_count":2,"avg_allocation":158.45,"diff":1,"time":1772295684284}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":224.76,"event_count":1,"avg_allocation":224.76,"diff":1,"time":1772295685784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":879.06,"event_count":2,"avg_allocation":439.53,"diff":-1,"time":1772295687284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":1248.23,"event_count":3,"avg_allocation":416.07666666666665,"diff":1,"time":1772295687284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":570.7,"event_count":1,"avg_allocation":570.7,"diff":1,"time":1772295688784}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":1477.18,"event_count":1,"avg_allocation":1477.18,"diff":-1,"time":1772295690284}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":2763.02,"event_count":2,"avg_allocation":1381.51,"diff":1,"time":1772295690284}
+{"state":"Kerala","sector":"Education","total_allocation":242.76,"event_count":1,"avg_allocation":242.76,"diff":1,"time":1772295691784}
+{"state":"Rajasthan","sector":"Education","total_allocation":247.18,"event_count":1,"avg_allocation":247.18,"diff":1,"time":1772295693284}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":100.83,"event_count":1,"avg_allocation":100.83,"diff":1,"time":1772295694784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":570.7,"event_count":1,"avg_allocation":570.7,"diff":-1,"time":1772295696284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":811.45,"event_count":2,"avg_allocation":405.725,"diff":1,"time":1772295696284}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":312.66,"event_count":1,"avg_allocation":312.66,"diff":-1,"time":1772295697784}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":489.54,"event_count":2,"avg_allocation":244.77,"diff":1,"time":1772295697784}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":740.14,"event_count":1,"avg_allocation":740.14,"diff":1,"time":1772295699284}
+{"state":"Karnataka","sector":"Transport","total_allocation":747.55,"event_count":1,"avg_allocation":747.55,"diff":1,"time":1772295700784}
+{"state":"West Bengal","sector":"Electricity","total_allocation":281.1,"event_count":1,"avg_allocation":281.1,"diff":1,"time":1772295702284}
+{"state":"Telangana","sector":"Education","total_allocation":342.28,"event_count":1,"avg_allocation":342.28,"diff":-1,"time":1772295703784}
+{"state":"Telangana","sector":"Education","total_allocation":625.63,"event_count":2,"avg_allocation":312.815,"diff":1,"time":1772295703784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":645.92,"event_count":1,"avg_allocation":645.92,"diff":-1,"time":1772295705284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":1582.58,"event_count":2,"avg_allocation":791.29,"diff":1,"time":1772295705284}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":224.76,"event_count":1,"avg_allocation":224.76,"diff":-1,"time":1772295706784}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":833.39,"event_count":2,"avg_allocation":416.695,"diff":1,"time":1772295706784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":1582.58,"event_count":2,"avg_allocation":791.29,"diff":-1,"time":1772295708284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":2440.65,"event_count":3,"avg_allocation":813.5500000000001,"diff":1,"time":1772295708284}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":240.38,"event_count":1,"avg_allocation":240.38,"diff":1,"time":1772295709784}
+{"state":"Tamil Nadu","sector":"Transport","total_allocation":610.31,"event_count":1,"avg_allocation":610.31,"diff":1,"time":1772295711284}
+{"state":"Kerala","sector":"Electricity","total_allocation":479.49,"event_count":1,"avg_allocation":479.49,"diff":1,"time":1772295712784}
+{"state":"Maharashtra","sector":"Water","total_allocation":316.67,"event_count":1,"avg_allocation":316.67,"diff":1,"time":1772295714284}
+{"state":"Kerala","sector":"Healthcare","total_allocation":4532.38,"event_count":1,"avg_allocation":4532.38,"diff":-1,"time":1772295715784}
+{"state":"Kerala","sector":"Healthcare","total_allocation":4715.41,"event_count":2,"avg_allocation":2357.705,"diff":1,"time":1772295715784}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":186.22,"event_count":1,"avg_allocation":186.22,"diff":1,"time":1772295717284}
+{"state":"Telangana","sector":"Sanitation","total_allocation":268.62,"event_count":1,"avg_allocation":268.62,"diff":-1,"time":1772295718784}
+{"state":"Telangana","sector":"Sanitation","total_allocation":352.84000000000003,"event_count":2,"avg_allocation":176.42000000000002,"diff":1,"time":1772295718784}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":216.28,"event_count":1,"avg_allocation":216.28,"diff":-1,"time":1772295720284}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":409.84000000000003,"event_count":2,"avg_allocation":204.92000000000002,"diff":1,"time":1772295720284}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":672.74,"event_count":1,"avg_allocation":672.74,"diff":1,"time":1772295721784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":811.45,"event_count":2,"avg_allocation":405.725,"diff":-1,"time":1772295723284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":1165.02,"event_count":3,"avg_allocation":388.34,"diff":1,"time":1772295723284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":496.78,"event_count":1,"avg_allocation":496.78,"diff":1,"time":1772295724784}
+{"state":"Kerala","sector":"Sanitation","total_allocation":4736.73,"event_count":1,"avg_allocation":4736.73,"diff":1,"time":1772295726284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":1248.23,"event_count":3,"avg_allocation":416.07666666666665,"diff":-1,"time":1772295727784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":1851.0,"event_count":4,"avg_allocation":462.75,"diff":1,"time":1772295727784}
+{"state":"West Bengal","sector":"Water","total_allocation":302.63,"event_count":1,"avg_allocation":302.63,"diff":-1,"time":1772295729284}
+{"state":"West Bengal","sector":"Water","total_allocation":769.96,"event_count":2,"avg_allocation":384.98,"diff":1,"time":1772295729284}
+{"state":"West Bengal","sector":"Transport","total_allocation":906.01,"event_count":1,"avg_allocation":906.01,"diff":1,"time":1772295730784}
+{"state":"Karnataka","sector":"Water","total_allocation":313.84,"event_count":1,"avg_allocation":313.84,"diff":1,"time":1772295732284}
+{"state":"Andhra Pradesh","sector":"Sanitation","total_allocation":116.83,"event_count":1,"avg_allocation":116.83,"diff":-1,"time":1772295733784}
+{"state":"Andhra Pradesh","sector":"Sanitation","total_allocation":378.03999999999996,"event_count":2,"avg_allocation":189.01999999999998,"diff":1,"time":1772295733784}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":377.75,"event_count":1,"avg_allocation":377.75,"diff":-1,"time":1772295735284}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":527.9300000000001,"event_count":2,"avg_allocation":263.96500000000003,"diff":1,"time":1772295735284}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":810.8,"event_count":1,"avg_allocation":810.8,"diff":1,"time":1772295736784}
+{"state":"Maharashtra","sector":"Education","total_allocation":325.64,"event_count":1,"avg_allocation":325.64,"diff":-1,"time":1772295738284}
+{"state":"Maharashtra","sector":"Education","total_allocation":3062.5299999999997,"event_count":2,"avg_allocation":1531.2649999999999,"diff":1,"time":1772295738284}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":100.83,"event_count":1,"avg_allocation":100.83,"diff":-1,"time":1772295739784}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":366.55,"event_count":2,"avg_allocation":183.275,"diff":1,"time":1772295739784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":1851.0,"event_count":4,"avg_allocation":462.75,"diff":-1,"time":1772295741284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":2342.7799999999997,"event_count":5,"avg_allocation":468.5559999999999,"diff":1,"time":1772295741284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":523.13,"event_count":1,"avg_allocation":523.13,"diff":-1,"time":1772295742784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":783.81,"event_count":2,"avg_allocation":391.905,"diff":1,"time":1772295742784}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":375.72,"event_count":1,"avg_allocation":375.72,"diff":-1,"time":1772295744284}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":728.05,"event_count":2,"avg_allocation":364.025,"diff":1,"time":1772295744284}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":298.24,"event_count":1,"avg_allocation":298.24,"diff":1,"time":1772295745784}
+{"state":"Maharashtra","sector":"Education","total_allocation":3062.5299999999997,"event_count":2,"avg_allocation":1531.2649999999999,"diff":-1,"time":1772295747284}
+{"state":"Maharashtra","sector":"Education","total_allocation":3262.5499999999997,"event_count":3,"avg_allocation":1087.5166666666667,"diff":1,"time":1772295747284}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":9702.15,"event_count":1,"avg_allocation":9702.15,"diff":-1,"time":1772295748784}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":10059.14,"event_count":2,"avg_allocation":5029.57,"diff":1,"time":1772295748784}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":1199.43,"event_count":1,"avg_allocation":1199.43,"diff":-1,"time":1772295750284}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":1603.5,"event_count":2,"avg_allocation":801.75,"diff":1,"time":1772295750284}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":421.12,"event_count":1,"avg_allocation":421.12,"diff":-1,"time":1772295751784}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":660.6700000000001,"event_count":2,"avg_allocation":330.33500000000004,"diff":1,"time":1772295751784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":783.81,"event_count":2,"avg_allocation":391.905,"diff":-1,"time":1772295753284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":1293.29,"event_count":3,"avg_allocation":431.09666666666664,"diff":1,"time":1772295753284}
+{"state":"Tamil Nadu","sector":"Renewable Energy","total_allocation":575.79,"event_count":1,"avg_allocation":575.79,"diff":1,"time":1772295754784}
+{"state":"Karnataka","sector":"Transport","total_allocation":747.55,"event_count":1,"avg_allocation":747.55,"diff":-1,"time":1772295756284}
+{"state":"Karnataka","sector":"Transport","total_allocation":1555.9099999999999,"event_count":2,"avg_allocation":777.9549999999999,"diff":1,"time":1772295756284}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":740.14,"event_count":1,"avg_allocation":740.14,"diff":-1,"time":1772295757784}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":18685.05,"event_count":2,"avg_allocation":9342.525,"diff":1,"time":1772295757784}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":489.54,"event_count":2,"avg_allocation":244.77,"diff":-1,"time":1772295759284}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":578.79,"event_count":3,"avg_allocation":192.92999999999998,"diff":1,"time":1772295759284}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":798.02,"event_count":1,"avg_allocation":798.02,"diff":-1,"time":1772295760784}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":17200.15,"event_count":2,"avg_allocation":8600.075,"diff":1,"time":1772295760784}
+{"state":"Karnataka","sector":"Water","total_allocation":313.84,"event_count":1,"avg_allocation":313.84,"diff":-1,"time":1772295762284}
+{"state":"Karnataka","sector":"Water","total_allocation":3027.8500000000004,"event_count":2,"avg_allocation":1513.9250000000002,"diff":1,"time":1772295762284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":2342.7799999999997,"event_count":5,"avg_allocation":468.5559999999999,"diff":-1,"time":1772295763784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":2847.83,"event_count":6,"avg_allocation":474.6383333333333,"diff":1,"time":1772295763784}
+{"state":"West Bengal","sector":"Education","total_allocation":285.49,"event_count":1,"avg_allocation":285.49,"diff":1,"time":1772295765284}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":298.24,"event_count":1,"avg_allocation":298.24,"diff":-1,"time":1772295766784}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":451.76,"event_count":2,"avg_allocation":225.88,"diff":1,"time":1772295766784}
+{"state":"Maharashtra","sector":"Education","total_allocation":3262.5499999999997,"event_count":3,"avg_allocation":1087.5166666666667,"diff":-1,"time":1772295768286}
+{"state":"Maharashtra","sector":"Education","total_allocation":3523.99,"event_count":4,"avg_allocation":880.9975,"diff":1,"time":1772295768286}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":754.17,"event_count":1,"avg_allocation":754.17,"diff":1,"time":1772295769784}
+{"state":"Kerala","sector":"Electricity","total_allocation":479.49,"event_count":1,"avg_allocation":479.49,"diff":-1,"time":1772295771284}
+{"state":"Kerala","sector":"Electricity","total_allocation":873.94,"event_count":2,"avg_allocation":436.97,"diff":1,"time":1772295771284}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":300.79,"event_count":1,"avg_allocation":300.79,"diff":-1,"time":1772295772784}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":861.96,"event_count":2,"avg_allocation":430.98,"diff":1,"time":1772295772784}
+{"state":"Karnataka","sector":"Sanitation","total_allocation":132.6,"event_count":1,"avg_allocation":132.6,"diff":1,"time":1772295774284}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":230.32,"event_count":1,"avg_allocation":230.32,"diff":-1,"time":1772295775784}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":770.77,"event_count":2,"avg_allocation":385.385,"diff":1,"time":1772295775784}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":672.74,"event_count":1,"avg_allocation":672.74,"diff":-1,"time":1772295777286}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":1148.31,"event_count":2,"avg_allocation":574.155,"diff":1,"time":1772295777286}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":240.38,"event_count":1,"avg_allocation":240.38,"diff":-1,"time":1772295778784}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":386.76,"event_count":2,"avg_allocation":193.38,"diff":1,"time":1772295778784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":1165.02,"event_count":3,"avg_allocation":388.34,"diff":-1,"time":1772295780284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":1524.6100000000001,"event_count":4,"avg_allocation":381.15250000000003,"diff":1,"time":1772295780284}
+{"state":"Telangana","sector":"Transport","total_allocation":947.54,"event_count":1,"avg_allocation":947.54,"diff":-1,"time":1772295781784}
+{"state":"Telangana","sector":"Transport","total_allocation":1632.27,"event_count":2,"avg_allocation":816.135,"diff":1,"time":1772295781784}
+{"state":"Karnataka","sector":"Water","total_allocation":3027.8500000000004,"event_count":2,"avg_allocation":1513.9250000000002,"diff":-1,"time":1772295783286}
+{"state":"Karnataka","sector":"Water","total_allocation":3312.61,"event_count":3,"avg_allocation":1104.2033333333334,"diff":1,"time":1772295783286}
+{"state":"Karnataka","sector":"Electricity","total_allocation":622.39,"event_count":1,"avg_allocation":622.39,"diff":1,"time":1772295784784}
+{"state":"Gujarat","sector":"Education","total_allocation":244.49,"event_count":1,"avg_allocation":244.49,"diff":1,"time":1772295786286}
+{"state":"Telangana","sector":"Agriculture","total_allocation":213.9,"event_count":1,"avg_allocation":213.9,"diff":1,"time":1772295787784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":2440.65,"event_count":3,"avg_allocation":813.5500000000001,"diff":-1,"time":1772295789284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":2995.59,"event_count":4,"avg_allocation":748.8975,"diff":1,"time":1772295789284}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":527.9300000000001,"event_count":2,"avg_allocation":263.96500000000003,"diff":-1,"time":1772295790786}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":899.71,"event_count":3,"avg_allocation":299.90333333333336,"diff":1,"time":1772295790786}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":1148.31,"event_count":2,"avg_allocation":574.155,"diff":-1,"time":1772295792286}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":1719.13,"event_count":3,"avg_allocation":573.0433333333334,"diff":1,"time":1772295792286}
+{"state":"Telangana","sector":"Electricity","total_allocation":525.68,"event_count":1,"avg_allocation":525.68,"diff":-1,"time":1772295793784}
+{"state":"Telangana","sector":"Electricity","total_allocation":1024.22,"event_count":2,"avg_allocation":512.11,"diff":1,"time":1772295793784}
+{"state":"Gujarat","sector":"Healthcare","total_allocation":430.46,"event_count":1,"avg_allocation":430.46,"diff":1,"time":1772295795284}
+{"state":"Andhra Pradesh","sector":"Water","total_allocation":342.26,"event_count":1,"avg_allocation":342.26,"diff":1,"time":1772295796784}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":18685.05,"event_count":2,"avg_allocation":9342.525,"diff":-1,"time":1772295798286}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":19277.6,"event_count":3,"avg_allocation":6425.866666666666,"diff":1,"time":1772295798286}
+{"state":"Telangana","sector":"Healthcare","total_allocation":1524.6100000000001,"event_count":4,"avg_allocation":381.15250000000003,"diff":-1,"time":1772295799784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":5331.43,"event_count":5,"avg_allocation":1066.286,"diff":1,"time":1772295799784}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":1113.76,"event_count":1,"avg_allocation":1113.76,"diff":1,"time":1772295801284}
+{"state":"Maharashtra","sector":"Education","total_allocation":3523.99,"event_count":4,"avg_allocation":880.9975,"diff":-1,"time":1772295802784}
+{"state":"Maharashtra","sector":"Education","total_allocation":3922.45,"event_count":5,"avg_allocation":784.49,"diff":1,"time":1772295802784}
+{"state":"Maharashtra","sector":"Transport","total_allocation":1065.69,"event_count":1,"avg_allocation":1065.69,"diff":1,"time":1772295804284}
+{"state":"Maharashtra","sector":"Education","total_allocation":3922.45,"event_count":5,"avg_allocation":784.49,"diff":-1,"time":1772295805784}
+{"state":"Maharashtra","sector":"Education","total_allocation":4293.45,"event_count":6,"avg_allocation":715.5749999999999,"diff":1,"time":1772295805784}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":962.26,"event_count":2,"avg_allocation":481.13,"diff":-1,"time":1772295807284}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":1437.9099999999999,"event_count":3,"avg_allocation":479.3033333333333,"diff":1,"time":1772295807284}
+{"state":"West Bengal","sector":"Water","total_allocation":769.96,"event_count":2,"avg_allocation":384.98,"diff":-1,"time":1772295808784}
+{"state":"West Bengal","sector":"Water","total_allocation":1043.7,"event_count":3,"avg_allocation":347.90000000000003,"diff":1,"time":1772295808784}
+{"state":"Karnataka","sector":"Agriculture","total_allocation":549.53,"event_count":1,"avg_allocation":549.53,"diff":1,"time":1772295810284}
+{"state":"Gujarat","sector":"Transport","total_allocation":832.14,"event_count":1,"avg_allocation":832.14,"diff":-1,"time":1772295811784}
+{"state":"Gujarat","sector":"Transport","total_allocation":1340.71,"event_count":2,"avg_allocation":670.355,"diff":1,"time":1772295811784}
+{"state":"Maharashtra","sector":"Transport","total_allocation":1065.69,"event_count":1,"avg_allocation":1065.69,"diff":-1,"time":1772295813284}
+{"state":"Maharashtra","sector":"Transport","total_allocation":1455.5500000000002,"event_count":2,"avg_allocation":727.7750000000001,"diff":1,"time":1772295813284}
+{"state":"Kerala","sector":"Agriculture","total_allocation":248.56,"event_count":1,"avg_allocation":248.56,"diff":-1,"time":1772295814784}
+{"state":"Kerala","sector":"Agriculture","total_allocation":802.51,"event_count":2,"avg_allocation":401.255,"diff":1,"time":1772295814784}
+{"state":"Kerala","sector":"Transport","total_allocation":1028.01,"event_count":1,"avg_allocation":1028.01,"diff":1,"time":1772295816284}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":4666.07,"event_count":1,"avg_allocation":4666.07,"diff":1,"time":1772295817784}
+{"state":"Tamil Nadu","sector":"Education","total_allocation":275.23,"event_count":1,"avg_allocation":275.23,"diff":1,"time":1772295819284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":1293.29,"event_count":3,"avg_allocation":431.09666666666664,"diff":-1,"time":1772295820784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":1738.22,"event_count":4,"avg_allocation":434.555,"diff":1,"time":1772295820784}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":810.8,"event_count":1,"avg_allocation":810.8,"diff":-1,"time":1772295822284}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":1615.83,"event_count":2,"avg_allocation":807.915,"diff":1,"time":1772295822284}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":1113.76,"event_count":1,"avg_allocation":1113.76,"diff":-1,"time":1772295823784}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":17617.62,"event_count":2,"avg_allocation":8808.81,"diff":1,"time":1772295823784}
+{"state":"Gujarat","sector":"Transport","total_allocation":1340.71,"event_count":2,"avg_allocation":670.355,"diff":-1,"time":1772295825284}
+{"state":"Gujarat","sector":"Transport","total_allocation":2401.66,"event_count":3,"avg_allocation":800.5533333333333,"diff":1,"time":1772295825284}
+{"state":"Karnataka","sector":"Water","total_allocation":3312.61,"event_count":3,"avg_allocation":1104.2033333333334,"diff":-1,"time":1772295826784}
+{"state":"Karnataka","sector":"Water","total_allocation":3696.92,"event_count":4,"avg_allocation":924.23,"diff":1,"time":1772295826784}
+{"state":"Gujarat","sector":"Electricity","total_allocation":677.07,"event_count":1,"avg_allocation":677.07,"diff":1,"time":1772295828284}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":451.76,"event_count":2,"avg_allocation":225.88,"diff":-1,"time":1772295829784}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":777.1,"event_count":3,"avg_allocation":259.03333333333336,"diff":1,"time":1772295829784}
+{"state":"Telangana","sector":"Water","total_allocation":223.56,"event_count":1,"avg_allocation":223.56,"diff":1,"time":1772295831284}
+{"state":"West Bengal","sector":"Electricity","total_allocation":281.1,"event_count":1,"avg_allocation":281.1,"diff":-1,"time":1772295832784}
+{"state":"West Bengal","sector":"Electricity","total_allocation":950.98,"event_count":2,"avg_allocation":475.49,"diff":1,"time":1772295832784}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":833.39,"event_count":2,"avg_allocation":416.695,"diff":-1,"time":1772295834284}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":1144.65,"event_count":3,"avg_allocation":381.55,"diff":1,"time":1772295834284}
+{"state":"Kerala","sector":"Healthcare","total_allocation":4715.41,"event_count":2,"avg_allocation":2357.705,"diff":-1,"time":1772295835784}
+{"state":"Kerala","sector":"Healthcare","total_allocation":5132.1900000000005,"event_count":3,"avg_allocation":1710.7300000000002,"diff":1,"time":1772295835784}
+{"state":"West Bengal","sector":"Transport","total_allocation":906.01,"event_count":1,"avg_allocation":906.01,"diff":-1,"time":1772295837284}
+{"state":"West Bengal","sector":"Transport","total_allocation":1318.9,"event_count":2,"avg_allocation":659.45,"diff":1,"time":1772295837284}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":386.76,"event_count":2,"avg_allocation":193.38,"diff":-1,"time":1772295838784}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":579.8,"event_count":3,"avg_allocation":193.26666666666665,"diff":1,"time":1772295838784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":2847.83,"event_count":6,"avg_allocation":474.6383333333333,"diff":-1,"time":1772295840284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":3112.2799999999997,"event_count":7,"avg_allocation":444.6114285714285,"diff":1,"time":1772295840284}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":770.77,"event_count":2,"avg_allocation":385.385,"diff":-1,"time":1772295841784}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":1394.5900000000001,"event_count":3,"avg_allocation":464.8633333333334,"diff":1,"time":1772295841784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":3112.2799999999997,"event_count":7,"avg_allocation":444.6114285714285,"diff":-1,"time":1772295843284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":3473.45,"event_count":8,"avg_allocation":434.18125,"diff":1,"time":1772295843284}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":17617.62,"event_count":2,"avg_allocation":8808.81,"diff":-1,"time":1772295844784}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":18283.510000000002,"event_count":3,"avg_allocation":6094.503333333334,"diff":1,"time":1772295844784}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":1437.9099999999999,"event_count":3,"avg_allocation":479.3033333333333,"diff":-1,"time":1772295846284}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":1784.49,"event_count":4,"avg_allocation":446.1225,"diff":1,"time":1772295846284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":2995.59,"event_count":4,"avg_allocation":748.8975,"diff":-1,"time":1772295847784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":3701.9300000000003,"event_count":5,"avg_allocation":740.3860000000001,"diff":1,"time":1772295847784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":213.9,"event_count":1,"avg_allocation":213.9,"diff":-1,"time":1772295849284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":607.84,"event_count":2,"avg_allocation":303.92,"diff":1,"time":1772295849284}
+{"state":"Karnataka","sector":"Water","total_allocation":3696.92,"event_count":4,"avg_allocation":924.23,"diff":-1,"time":1772295850784}
+{"state":"Karnataka","sector":"Water","total_allocation":3951.67,"event_count":5,"avg_allocation":790.3340000000001,"diff":1,"time":1772295850784}
+{"state":"Karnataka","sector":"Education","total_allocation":565.02,"event_count":2,"avg_allocation":282.51,"diff":-1,"time":1772295852284}
+{"state":"Karnataka","sector":"Education","total_allocation":758.9399999999999,"event_count":3,"avg_allocation":252.98,"diff":1,"time":1772295852284}
+{"state":"Rajasthan","sector":"Transport","total_allocation":871.38,"event_count":1,"avg_allocation":871.38,"diff":-1,"time":1772295853784}
+{"state":"Rajasthan","sector":"Transport","total_allocation":1815.6,"event_count":2,"avg_allocation":907.8,"diff":1,"time":1772295853784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":607.84,"event_count":2,"avg_allocation":303.92,"diff":-1,"time":1772295855284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":1022.79,"event_count":3,"avg_allocation":340.93,"diff":1,"time":1772295855284}
+{"state":"Gujarat","sector":"Transport","total_allocation":2401.66,"event_count":3,"avg_allocation":800.5533333333333,"diff":-1,"time":1772295856784}
+{"state":"Gujarat","sector":"Transport","total_allocation":3828.0,"event_count":4,"avg_allocation":957.0,"diff":1,"time":1772295856784}
+{"state":"Maharashtra","sector":"Education","total_allocation":4293.45,"event_count":6,"avg_allocation":715.5749999999999,"diff":-1,"time":1772295858284}
+{"state":"Maharashtra","sector":"Education","total_allocation":4425.53,"event_count":7,"avg_allocation":632.2185714285714,"diff":1,"time":1772295858284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":3701.9300000000003,"event_count":5,"avg_allocation":740.3860000000001,"diff":-1,"time":1772295859784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":4069.48,"event_count":6,"avg_allocation":678.2466666666667,"diff":1,"time":1772295859784}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":1784.49,"event_count":4,"avg_allocation":446.1225,"diff":-1,"time":1772295861284}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":2527.2599999999998,"event_count":5,"avg_allocation":505.45199999999994,"diff":1,"time":1772295861284}
+{"state":"Tamil Nadu","sector":"Renewable Energy","total_allocation":575.79,"event_count":1,"avg_allocation":575.79,"diff":-1,"time":1772295862784}
+{"state":"Tamil Nadu","sector":"Renewable Energy","total_allocation":1820.45,"event_count":2,"avg_allocation":910.225,"diff":1,"time":1772295862784}
+{"state":"Maharashtra","sector":"Water","total_allocation":316.67,"event_count":1,"avg_allocation":316.67,"diff":-1,"time":1772295864284}
+{"state":"Maharashtra","sector":"Water","total_allocation":784.3900000000001,"event_count":2,"avg_allocation":392.19500000000005,"diff":1,"time":1772295864284}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":17200.15,"event_count":2,"avg_allocation":8600.075,"diff":-1,"time":1772295865784}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":18379.43,"event_count":3,"avg_allocation":6126.4766666666665,"diff":1,"time":1772295865784}
+{"state":"Kerala","sector":"Agriculture","total_allocation":802.51,"event_count":2,"avg_allocation":401.255,"diff":-1,"time":1772295867284}
+{"state":"Kerala","sector":"Agriculture","total_allocation":1635.7800000000002,"event_count":3,"avg_allocation":545.2600000000001,"diff":1,"time":1772295867284}
+{"state":"Tamil Nadu","sector":"Transport","total_allocation":610.31,"event_count":1,"avg_allocation":610.31,"diff":-1,"time":1772295868784}
+{"state":"Tamil Nadu","sector":"Transport","total_allocation":1477.88,"event_count":2,"avg_allocation":738.94,"diff":1,"time":1772295868784}
+{"state":"Maharashtra","sector":"Water","total_allocation":784.3900000000001,"event_count":2,"avg_allocation":392.19500000000005,"diff":-1,"time":1772295870284}
+{"state":"Maharashtra","sector":"Water","total_allocation":6311.8099999999995,"event_count":3,"avg_allocation":2103.9366666666665,"diff":1,"time":1772295870284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":1022.79,"event_count":3,"avg_allocation":340.93,"diff":-1,"time":1772295871784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":1268.48,"event_count":4,"avg_allocation":317.12,"diff":1,"time":1772295871784}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":660.6700000000001,"event_count":2,"avg_allocation":330.33500000000004,"diff":-1,"time":1772295873284}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":999.9100000000001,"event_count":3,"avg_allocation":333.30333333333334,"diff":1,"time":1772295873284}
+{"state":"Andhra Pradesh","sector":"Water","total_allocation":342.26,"event_count":1,"avg_allocation":342.26,"diff":-1,"time":1772295874784}
+{"state":"Andhra Pradesh","sector":"Water","total_allocation":552.45,"event_count":2,"avg_allocation":276.225,"diff":1,"time":1772295874784}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":2763.02,"event_count":2,"avg_allocation":1381.51,"diff":-1,"time":1772295876284}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":24152.68,"event_count":3,"avg_allocation":8050.893333333333,"diff":1,"time":1772295876284}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":1394.5900000000001,"event_count":3,"avg_allocation":464.8633333333334,"diff":-1,"time":1772295877784}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":2136.87,"event_count":4,"avg_allocation":534.2175,"diff":1,"time":1772295877784}
+{"state":"Tamil Nadu","sector":"Healthcare","total_allocation":314.43,"event_count":1,"avg_allocation":314.43,"diff":1,"time":1772295879284}
+{"state":"Telangana","sector":"Transport","total_allocation":1632.27,"event_count":2,"avg_allocation":816.135,"diff":-1,"time":1772295880784}
+{"state":"Telangana","sector":"Transport","total_allocation":2779.56,"event_count":3,"avg_allocation":926.52,"diff":1,"time":1772295880784}
+{"state":"Karnataka","sector":"Water","total_allocation":3951.67,"event_count":5,"avg_allocation":790.3340000000001,"diff":-1,"time":1772295882284}
+{"state":"Karnataka","sector":"Water","total_allocation":4411.150000000001,"event_count":6,"avg_allocation":735.1916666666667,"diff":1,"time":1772295882284}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":899.71,"event_count":3,"avg_allocation":299.90333333333336,"diff":-1,"time":1772295883784}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":1389.18,"event_count":4,"avg_allocation":347.295,"diff":1,"time":1772295883784}
+{"state":"Gujarat","sector":"Water","total_allocation":256.11,"event_count":1,"avg_allocation":256.11,"diff":-1,"time":1772295885284}
+{"state":"Gujarat","sector":"Water","total_allocation":559.9200000000001,"event_count":2,"avg_allocation":279.96000000000004,"diff":1,"time":1772295885284}
+{"state":"Karnataka","sector":"Water","total_allocation":4411.150000000001,"event_count":6,"avg_allocation":735.1916666666667,"diff":-1,"time":1772295886784}
+{"state":"Karnataka","sector":"Water","total_allocation":4725.400000000001,"event_count":7,"avg_allocation":675.0571428571429,"diff":1,"time":1772295886784}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":1615.83,"event_count":2,"avg_allocation":807.915,"diff":-1,"time":1772295888284}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":21844.690000000002,"event_count":3,"avg_allocation":7281.563333333334,"diff":1,"time":1772295888284}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":999.9100000000001,"event_count":3,"avg_allocation":333.30333333333334,"diff":-1,"time":1772295889784}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":1357.02,"event_count":4,"avg_allocation":339.255,"diff":1,"time":1772295889784}
+{"state":"Telangana","sector":"Water","total_allocation":223.56,"event_count":1,"avg_allocation":223.56,"diff":-1,"time":1772295891284}
+{"state":"Telangana","sector":"Water","total_allocation":383.85,"event_count":2,"avg_allocation":191.925,"diff":1,"time":1772295891284}
+{"state":"Karnataka","sector":"Transport","total_allocation":1555.9099999999999,"event_count":2,"avg_allocation":777.9549999999999,"diff":-1,"time":1772295892784}
+{"state":"Karnataka","sector":"Transport","total_allocation":2521.18,"event_count":3,"avg_allocation":840.3933333333333,"diff":1,"time":1772295892784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":4069.48,"event_count":6,"avg_allocation":678.2466666666667,"diff":-1,"time":1772295894284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":4996.05,"event_count":7,"avg_allocation":713.7214285714286,"diff":1,"time":1772295894284}
+{"state":"Rajasthan","sector":"Education","total_allocation":247.18,"event_count":1,"avg_allocation":247.18,"diff":-1,"time":1772295895784}
+{"state":"Rajasthan","sector":"Education","total_allocation":429.46000000000004,"event_count":2,"avg_allocation":214.73000000000002,"diff":1,"time":1772295895784}
+{"state":"West Bengal","sector":"Transport","total_allocation":1318.9,"event_count":2,"avg_allocation":659.45,"diff":-1,"time":1772295897284}
+{"state":"West Bengal","sector":"Transport","total_allocation":1934.16,"event_count":3,"avg_allocation":644.72,"diff":1,"time":1772295897284}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":186.22,"event_count":1,"avg_allocation":186.22,"diff":-1,"time":1772295898784}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":406.95,"event_count":2,"avg_allocation":203.475,"diff":1,"time":1772295898784}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":10059.14,"event_count":2,"avg_allocation":5029.57,"diff":-1,"time":1772295900284}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":10282.42,"event_count":3,"avg_allocation":3427.4733333333334,"diff":1,"time":1772295900284}
+{"state":"Gujarat","sector":"Transport","total_allocation":3828.0,"event_count":4,"avg_allocation":957.0,"diff":-1,"time":1772295901784}
+{"state":"Gujarat","sector":"Transport","total_allocation":4392.96,"event_count":5,"avg_allocation":878.592,"diff":1,"time":1772295901784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":1268.48,"event_count":4,"avg_allocation":317.12,"diff":-1,"time":1772295903284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":1954.77,"event_count":5,"avg_allocation":390.954,"diff":1,"time":1772295903284}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":579.8,"event_count":3,"avg_allocation":193.26666666666665,"diff":-1,"time":1772295904784}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":775.88,"event_count":4,"avg_allocation":193.97,"diff":1,"time":1772295904784}
+{"state":"Tamil Nadu","sector":"Education","total_allocation":275.23,"event_count":1,"avg_allocation":275.23,"diff":-1,"time":1772295906284}
+{"state":"Tamil Nadu","sector":"Education","total_allocation":632.4200000000001,"event_count":2,"avg_allocation":316.21000000000004,"diff":1,"time":1772295906284}
+{"state":"West Bengal","sector":"Electricity","total_allocation":950.98,"event_count":2,"avg_allocation":475.49,"diff":-1,"time":1772295907784}
+{"state":"West Bengal","sector":"Electricity","total_allocation":1720.1399999999999,"event_count":3,"avg_allocation":573.38,"diff":1,"time":1772295907784}
+{"state":"Telangana","sector":"Sanitation","total_allocation":352.84000000000003,"event_count":2,"avg_allocation":176.42000000000002,"diff":-1,"time":1772295909284}
+{"state":"Telangana","sector":"Sanitation","total_allocation":555.4200000000001,"event_count":3,"avg_allocation":185.14000000000001,"diff":1,"time":1772295909284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":5331.43,"event_count":5,"avg_allocation":1066.286,"diff":-1,"time":1772295910784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":5495.02,"event_count":6,"avg_allocation":915.8366666666667,"diff":1,"time":1772295910784}
+{"state":"Telangana","sector":"Water","total_allocation":383.85,"event_count":2,"avg_allocation":191.925,"diff":-1,"time":1772295912284}
+{"state":"Telangana","sector":"Water","total_allocation":518.17,"event_count":3,"avg_allocation":172.72333333333333,"diff":1,"time":1772295912284}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":861.96,"event_count":2,"avg_allocation":430.98,"diff":-1,"time":1772295913784}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":1181.6399999999999,"event_count":3,"avg_allocation":393.87999999999994,"diff":1,"time":1772295913784}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":1389.18,"event_count":4,"avg_allocation":347.295,"diff":-1,"time":1772295915284}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":1749.67,"event_count":5,"avg_allocation":349.934,"diff":1,"time":1772295915284}
+{"state":"Kerala","sector":"Water","total_allocation":262.58,"event_count":1,"avg_allocation":262.58,"diff":-1,"time":1772295916784}
+{"state":"Kerala","sector":"Water","total_allocation":411.28,"event_count":2,"avg_allocation":205.64,"diff":1,"time":1772295916784}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":24152.68,"event_count":3,"avg_allocation":8050.893333333333,"diff":-1,"time":1772295918284}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":25471.18,"event_count":4,"avg_allocation":6367.795,"diff":1,"time":1772295918284}
+{"state":"Karnataka","sector":"Education","total_allocation":758.9399999999999,"event_count":3,"avg_allocation":252.98,"diff":-1,"time":1772295919784}
+{"state":"Karnataka","sector":"Education","total_allocation":1065.41,"event_count":4,"avg_allocation":266.3525,"diff":1,"time":1772295919784}
+{"state":"Karnataka","sector":"Education","total_allocation":1065.41,"event_count":4,"avg_allocation":266.3525,"diff":-1,"time":1772295921284}
+{"state":"Karnataka","sector":"Education","total_allocation":1176.35,"event_count":5,"avg_allocation":235.26999999999998,"diff":1,"time":1772295921284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":4996.05,"event_count":7,"avg_allocation":713.7214285714286,"diff":-1,"time":1772295922784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":5712.8,"event_count":8,"avg_allocation":714.1,"diff":1,"time":1772295922784}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":327.35,"event_count":1,"avg_allocation":327.35,"diff":1,"time":1772295924284}
+{"state":"West Bengal","sector":"Electricity","total_allocation":1720.1399999999999,"event_count":3,"avg_allocation":573.38,"diff":-1,"time":1772295925784}
+{"state":"West Bengal","sector":"Electricity","total_allocation":2104.5,"event_count":4,"avg_allocation":526.125,"diff":1,"time":1772295925784}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":25471.18,"event_count":4,"avg_allocation":6367.795,"diff":-1,"time":1772295927284}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":46699.6,"event_count":5,"avg_allocation":9339.92,"diff":1,"time":1772295927284}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":777.1,"event_count":3,"avg_allocation":259.03333333333336,"diff":-1,"time":1772295928784}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":1043.71,"event_count":4,"avg_allocation":260.9275,"diff":1,"time":1772295928784}
+{"state":"Kerala","sector":"Renewable Energy","total_allocation":1464.84,"event_count":1,"avg_allocation":1464.84,"diff":1,"time":1772295930284}
+{"state":"Andhra Pradesh","sector":"Water","total_allocation":552.45,"event_count":2,"avg_allocation":276.225,"diff":-1,"time":1772295931784}
+{"state":"Andhra Pradesh","sector":"Water","total_allocation":1008.06,"event_count":3,"avg_allocation":336.02,"diff":1,"time":1772295931784}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":1749.67,"event_count":5,"avg_allocation":349.934,"diff":-1,"time":1772295933284}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":1884.18,"event_count":6,"avg_allocation":314.03000000000003,"diff":1,"time":1772295933284}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":18379.43,"event_count":3,"avg_allocation":6126.4766666666665,"diff":-1,"time":1772295934784}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":19403.14,"event_count":4,"avg_allocation":4850.785,"diff":1,"time":1772295934784}
+{"state":"Telangana","sector":"Sanitation","total_allocation":555.4200000000001,"event_count":3,"avg_allocation":185.14000000000001,"diff":-1,"time":1772295936284}
+{"state":"Telangana","sector":"Sanitation","total_allocation":607.88,"event_count":4,"avg_allocation":151.97,"diff":1,"time":1772295936284}
+{"state":"West Bengal","sector":"Water","total_allocation":1043.7,"event_count":3,"avg_allocation":347.90000000000003,"diff":-1,"time":1772295937784}
+{"state":"West Bengal","sector":"Water","total_allocation":1194.48,"event_count":4,"avg_allocation":298.62,"diff":1,"time":1772295937784}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":1181.6399999999999,"event_count":3,"avg_allocation":393.87999999999994,"diff":-1,"time":1772295939284}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":1378.42,"event_count":4,"avg_allocation":344.605,"diff":1,"time":1772295939284}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":1357.02,"event_count":4,"avg_allocation":339.255,"diff":-1,"time":1772295940784}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":1668.68,"event_count":5,"avg_allocation":333.736,"diff":1,"time":1772295940784}
+{"state":"Kerala","sector":"Healthcare","total_allocation":5132.1900000000005,"event_count":3,"avg_allocation":1710.7300000000002,"diff":-1,"time":1772295942284}
+{"state":"Kerala","sector":"Healthcare","total_allocation":5640.25,"event_count":4,"avg_allocation":1410.0625,"diff":1,"time":1772295942284}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":1884.18,"event_count":6,"avg_allocation":314.03000000000003,"diff":-1,"time":1772295943784}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":2151.77,"event_count":7,"avg_allocation":307.3957142857143,"diff":1,"time":1772295943784}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":366.55,"event_count":2,"avg_allocation":183.275,"diff":-1,"time":1772295945284}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":479.62,"event_count":3,"avg_allocation":159.87333333333333,"diff":1,"time":1772295945284}
+{"state":"Telangana","sector":"Sanitation","total_allocation":607.88,"event_count":4,"avg_allocation":151.97,"diff":-1,"time":1772295946784}
+{"state":"Telangana","sector":"Sanitation","total_allocation":4658.74,"event_count":5,"avg_allocation":931.7479999999999,"diff":1,"time":1772295946784}
+{"state":"Andhra Pradesh","sector":"Healthcare","total_allocation":544.32,"event_count":1,"avg_allocation":544.32,"diff":1,"time":1772295948284}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":1876.7199999999998,"event_count":2,"avg_allocation":938.3599999999999,"diff":-1,"time":1772295951284}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":2337.6,"event_count":3,"avg_allocation":779.1999999999999,"diff":1,"time":1772295951284}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":1719.13,"event_count":3,"avg_allocation":573.0433333333334,"diff":-1,"time":1772295952784}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":2207.52,"event_count":4,"avg_allocation":551.88,"diff":1,"time":1772295952784}
+{"state":"West Bengal","sector":"Education","total_allocation":285.49,"event_count":1,"avg_allocation":285.49,"diff":-1,"time":1772295952834}
+{"state":"West Bengal","sector":"Education","total_allocation":487.32000000000005,"event_count":2,"avg_allocation":243.66000000000003,"diff":1,"time":1772295952834}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":889.91,"event_count":1,"avg_allocation":889.91,"diff":-1,"time":1772295954284}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":1748.77,"event_count":2,"avg_allocation":874.385,"diff":1,"time":1772295954284}
+{"state":"Telangana","sector":"Education","total_allocation":625.63,"event_count":2,"avg_allocation":312.815,"diff":-1,"time":1772295955784}
+{"state":"Telangana","sector":"Education","total_allocation":791.8199999999999,"event_count":3,"avg_allocation":263.94,"diff":1,"time":1772295955784}
+{"state":"Maharashtra","sector":"Transport","total_allocation":1455.5500000000002,"event_count":2,"avg_allocation":727.7750000000001,"diff":-1,"time":1772295957284}
+{"state":"Maharashtra","sector":"Transport","total_allocation":1932.94,"event_count":3,"avg_allocation":644.3133333333334,"diff":1,"time":1772295957284}
+{"state":"Karnataka","sector":"Sanitation","total_allocation":132.6,"event_count":1,"avg_allocation":132.6,"diff":-1,"time":1772295958784}
+{"state":"Karnataka","sector":"Sanitation","total_allocation":409.84000000000003,"event_count":2,"avg_allocation":204.92000000000002,"diff":1,"time":1772295958784}
+{"state":"Gujarat","sector":"Water","total_allocation":559.9200000000001,"event_count":2,"avg_allocation":279.96000000000004,"diff":-1,"time":1772295960284}
+{"state":"Gujarat","sector":"Water","total_allocation":768.58,"event_count":3,"avg_allocation":256.1933333333333,"diff":1,"time":1772295960284}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":479.62,"event_count":3,"avg_allocation":159.87333333333333,"diff":-1,"time":1772295961784}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":708.78,"event_count":4,"avg_allocation":177.195,"diff":1,"time":1772295961784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":1954.77,"event_count":5,"avg_allocation":390.954,"diff":-1,"time":1772295963284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":2343.29,"event_count":6,"avg_allocation":390.54833333333335,"diff":1,"time":1772295963284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":1738.22,"event_count":4,"avg_allocation":434.555,"diff":-1,"time":1772295964784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":2194.13,"event_count":5,"avg_allocation":438.826,"diff":1,"time":1772295964784}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":1043.71,"event_count":4,"avg_allocation":260.9275,"diff":-1,"time":1772295966284}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":1183.97,"event_count":5,"avg_allocation":236.794,"diff":1,"time":1772295966284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":2194.13,"event_count":5,"avg_allocation":438.826,"diff":-1,"time":1772295967784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":2476.17,"event_count":6,"avg_allocation":412.695,"diff":1,"time":1772295967784}
+{"state":"Kerala","sector":"Transport","total_allocation":1028.01,"event_count":1,"avg_allocation":1028.01,"diff":-1,"time":1772295969284}
+{"state":"Kerala","sector":"Transport","total_allocation":1996.15,"event_count":2,"avg_allocation":998.075,"diff":1,"time":1772295969284}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":2337.6,"event_count":3,"avg_allocation":779.1999999999999,"diff":-1,"time":1772295972284}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":2613.0299999999997,"event_count":4,"avg_allocation":653.2574999999999,"diff":1,"time":1772295972284}
+{"state":"West Bengal","sector":"Transport","total_allocation":1934.16,"event_count":3,"avg_allocation":644.72,"diff":-1,"time":1772295973784}
+{"state":"West Bengal","sector":"Transport","total_allocation":12500.81,"event_count":4,"avg_allocation":3125.2025,"diff":1,"time":1772295973784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":3473.45,"event_count":8,"avg_allocation":434.18125,"diff":-1,"time":1772295975284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":4166.81,"event_count":9,"avg_allocation":462.97888888888895,"diff":1,"time":1772295975284}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":46699.6,"event_count":5,"avg_allocation":9339.92,"diff":-1,"time":1772295976784}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":47793.84,"event_count":6,"avg_allocation":7965.639999999999,"diff":1,"time":1772295976784}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":327.35,"event_count":1,"avg_allocation":327.35,"diff":-1,"time":1772295976946}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":1087.81,"event_count":2,"avg_allocation":543.905,"diff":1,"time":1772295976946}
+{"state":"Rajasthan","sector":"Education","total_allocation":429.46000000000004,"event_count":2,"avg_allocation":214.73000000000002,"diff":-1,"time":1772295978284}
+{"state":"Rajasthan","sector":"Education","total_allocation":2551.1,"event_count":3,"avg_allocation":850.3666666666667,"diff":1,"time":1772295978284}
+{"state":"Telangana","sector":"Electricity","total_allocation":1024.22,"event_count":2,"avg_allocation":512.11,"diff":-1,"time":1772295979784}
+{"state":"Telangana","sector":"Electricity","total_allocation":6951.96,"event_count":3,"avg_allocation":2317.32,"diff":1,"time":1772295979784}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":427.45,"event_count":1,"avg_allocation":427.45,"diff":-1,"time":1772295981284}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":622.96,"event_count":2,"avg_allocation":311.48,"diff":1,"time":1772295981284}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":728.05,"event_count":2,"avg_allocation":364.025,"diff":-1,"time":1772295982784}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":5127.72,"event_count":3,"avg_allocation":1709.24,"diff":1,"time":1772295982784}
+{"state":"Tamil Nadu","sector":"Healthcare","total_allocation":314.43,"event_count":1,"avg_allocation":314.43,"diff":-1,"time":1772295984284}
+{"state":"Tamil Nadu","sector":"Healthcare","total_allocation":556.33,"event_count":2,"avg_allocation":278.165,"diff":1,"time":1772295984284}
+{"state":"Kerala","sector":"Transport","total_allocation":1996.15,"event_count":2,"avg_allocation":998.075,"diff":-1,"time":1772295985784}
+{"state":"Kerala","sector":"Transport","total_allocation":3180.0099999999998,"event_count":3,"avg_allocation":1060.0033333333333,"diff":1,"time":1772295985784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":2476.17,"event_count":6,"avg_allocation":412.695,"diff":-1,"time":1772295987284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":2948.08,"event_count":7,"avg_allocation":421.1542857142857,"diff":1,"time":1772295987284}
+{"state":"Telangana","sector":"Education","total_allocation":791.8199999999999,"event_count":3,"avg_allocation":263.94,"diff":-1,"time":1772295988784}
+{"state":"Telangana","sector":"Education","total_allocation":1028.1399999999999,"event_count":4,"avg_allocation":257.03499999999997,"diff":1,"time":1772295988784}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":18283.510000000002,"event_count":3,"avg_allocation":6094.503333333334,"diff":-1,"time":1772295991784}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":19598.420000000002,"event_count":4,"avg_allocation":4899.6050000000005,"diff":1,"time":1772295991784}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":8915.8,"event_count":2,"avg_allocation":4457.9,"diff":-1,"time":1772295993284}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":16245.31,"event_count":3,"avg_allocation":5415.1033333333335,"diff":1,"time":1772295993284}
+{"state":"Kerala","sector":"Electricity","total_allocation":873.94,"event_count":2,"avg_allocation":436.97,"diff":-1,"time":1772295994784}
+{"state":"Kerala","sector":"Electricity","total_allocation":1340.62,"event_count":3,"avg_allocation":446.8733333333333,"diff":1,"time":1772295994784}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":21844.690000000002,"event_count":3,"avg_allocation":7281.563333333334,"diff":-1,"time":1772295996284}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":23069.38,"event_count":4,"avg_allocation":5767.345,"diff":1,"time":1772295996284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":496.78,"event_count":1,"avg_allocation":496.78,"diff":-1,"time":1772295997784}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":1093.82,"event_count":2,"avg_allocation":546.91,"diff":1,"time":1772295997784}
+{"state":"Maharashtra","sector":"Transport","total_allocation":1932.94,"event_count":3,"avg_allocation":644.3133333333334,"diff":-1,"time":1772295999284}
+{"state":"Maharashtra","sector":"Transport","total_allocation":2753.32,"event_count":4,"avg_allocation":688.33,"diff":1,"time":1772295999284}
+{"state":"Kerala","sector":"Electricity","total_allocation":1340.62,"event_count":3,"avg_allocation":446.8733333333333,"diff":-1,"time":1772296000784}
+{"state":"Kerala","sector":"Electricity","total_allocation":2030.6799999999998,"event_count":4,"avg_allocation":507.66999999999996,"diff":1,"time":1772296000784}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":2151.77,"event_count":7,"avg_allocation":307.3957142857143,"diff":-1,"time":1772296001056}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":7068.700000000001,"event_count":8,"avg_allocation":883.5875000000001,"diff":1,"time":1772296001056}
+{"state":"Kerala","sector":"Electricity","total_allocation":2030.6799999999998,"event_count":4,"avg_allocation":507.66999999999996,"diff":-1,"time":1772296002284}
+{"state":"Kerala","sector":"Electricity","total_allocation":2300.18,"event_count":5,"avg_allocation":460.03599999999994,"diff":1,"time":1772296002284}
+{"state":"Rajasthan","sector":"Transport","total_allocation":1815.6,"event_count":2,"avg_allocation":907.8,"diff":-1,"time":1772296003784}
+{"state":"Rajasthan","sector":"Transport","total_allocation":2616.37,"event_count":3,"avg_allocation":872.1233333333333,"diff":1,"time":1772296003784}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":19277.6,"event_count":3,"avg_allocation":6425.866666666666,"diff":-1,"time":1772296005284}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":20429.26,"event_count":4,"avg_allocation":5107.315,"diff":1,"time":1772296005284}
+{"state":"Rajasthan","sector":"Education","total_allocation":2551.1,"event_count":3,"avg_allocation":850.3666666666667,"diff":-1,"time":1772296006784}
+{"state":"Rajasthan","sector":"Education","total_allocation":2829.7599999999998,"event_count":4,"avg_allocation":707.4399999999999,"diff":1,"time":1772296006784}
+{"state":"Gujarat","sector":"Education","total_allocation":244.49,"event_count":1,"avg_allocation":244.49,"diff":-1,"time":1772296009784}
+{"state":"Gujarat","sector":"Education","total_allocation":635.13,"event_count":2,"avg_allocation":317.565,"diff":1,"time":1772296009784}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":10282.42,"event_count":3,"avg_allocation":3427.4733333333334,"diff":-1,"time":1772296011284}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":10597.01,"event_count":4,"avg_allocation":2649.2525,"diff":1,"time":1772296011284}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":2613.0299999999997,"event_count":4,"avg_allocation":653.2574999999999,"diff":-1,"time":1772296012784}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":3510.0699999999997,"event_count":5,"avg_allocation":702.0139999999999,"diff":1,"time":1772296012784}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":409.84000000000003,"event_count":2,"avg_allocation":204.92000000000002,"diff":-1,"time":1772296014284}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":738.82,"event_count":3,"avg_allocation":246.27333333333334,"diff":1,"time":1772296014284}
+{"state":"Gujarat","sector":"Water","total_allocation":768.58,"event_count":3,"avg_allocation":256.1933333333333,"diff":-1,"time":1772296015784}
+{"state":"Gujarat","sector":"Water","total_allocation":1008.55,"event_count":4,"avg_allocation":252.1375,"diff":1,"time":1772296015784}
+{"state":"Karnataka","sector":"Water","total_allocation":4725.400000000001,"event_count":7,"avg_allocation":675.0571428571429,"diff":-1,"time":1772296017284}
+{"state":"Karnataka","sector":"Water","total_allocation":4894.74,"event_count":8,"avg_allocation":611.8425,"diff":1,"time":1772296017284}
+{"state":"Rajasthan","sector":"Education","total_allocation":2829.7599999999998,"event_count":4,"avg_allocation":707.4399999999999,"diff":-1,"time":1772296018784}
+{"state":"Rajasthan","sector":"Education","total_allocation":3194.77,"event_count":5,"avg_allocation":638.954,"diff":1,"time":1772296018784}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":7068.700000000001,"event_count":8,"avg_allocation":883.5875000000001,"diff":-1,"time":1772296019132}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":7358.070000000001,"event_count":9,"avg_allocation":817.5633333333334,"diff":1,"time":1772296019132}
+{"state":"West Bengal","sector":"Transport","total_allocation":12500.81,"event_count":4,"avg_allocation":3125.2025,"diff":-1,"time":1772296020284}
+{"state":"West Bengal","sector":"Transport","total_allocation":13130.16,"event_count":5,"avg_allocation":2626.032,"diff":1,"time":1772296020284}
+{"state":"Rajasthan","sector":"Water","total_allocation":416.67,"event_count":1,"avg_allocation":416.67,"diff":1,"time":1772296021784}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":20429.26,"event_count":4,"avg_allocation":5107.315,"diff":-1,"time":1772296024784}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":20950.67,"event_count":5,"avg_allocation":4190.134,"diff":1,"time":1772296024784}
+{"state":"West Bengal","sector":"Electricity","total_allocation":2104.5,"event_count":4,"avg_allocation":526.125,"diff":-1,"time":1772296026284}
+{"state":"West Bengal","sector":"Electricity","total_allocation":2738.55,"event_count":5,"avg_allocation":547.71,"diff":1,"time":1772296026284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":2343.29,"event_count":6,"avg_allocation":390.54833333333335,"diff":-1,"time":1772296027784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":2919.02,"event_count":7,"avg_allocation":417.0028571428571,"diff":1,"time":1772296027784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":2919.02,"event_count":7,"avg_allocation":417.0028571428571,"diff":-1,"time":1772296029284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":3960.43,"event_count":8,"avg_allocation":495.05375,"diff":1,"time":1772296029284}
+{"state":"Telangana","sector":"Education","total_allocation":1028.1399999999999,"event_count":4,"avg_allocation":257.03499999999997,"diff":-1,"time":1772296030784}
+{"state":"Telangana","sector":"Education","total_allocation":1279.51,"event_count":5,"avg_allocation":255.902,"diff":1,"time":1772296030784}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":19403.14,"event_count":4,"avg_allocation":4850.785,"diff":-1,"time":1772296032284}
+{"state":"West Bengal","sector":"Renewable Energy","total_allocation":20586.75,"event_count":5,"avg_allocation":4117.35,"diff":1,"time":1772296032284}
+{"state":"West Bengal","sector":"Water","total_allocation":1194.48,"event_count":4,"avg_allocation":298.62,"diff":-1,"time":1772296033784}
+{"state":"West Bengal","sector":"Water","total_allocation":1362.79,"event_count":5,"avg_allocation":272.558,"diff":1,"time":1772296033784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":5495.02,"event_count":6,"avg_allocation":915.8366666666667,"diff":-1,"time":1772296035284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":5894.650000000001,"event_count":7,"avg_allocation":842.0928571428573,"diff":1,"time":1772296035284}
+{"state":"Kerala","sector":"Education","total_allocation":242.76,"event_count":1,"avg_allocation":242.76,"diff":-1,"time":1772296036784}
+{"state":"Kerala","sector":"Education","total_allocation":386.5,"event_count":2,"avg_allocation":193.25,"diff":1,"time":1772296036784}
+{"state":"Rajasthan","sector":"Transport","total_allocation":2616.37,"event_count":3,"avg_allocation":872.1233333333333,"diff":-1,"time":1772296038284}
+{"state":"Rajasthan","sector":"Transport","total_allocation":3224.26,"event_count":4,"avg_allocation":806.065,"diff":1,"time":1772296038284}
+{"state":"Gujarat","sector":"Water","total_allocation":1008.55,"event_count":4,"avg_allocation":252.1375,"diff":-1,"time":1772296039784}
+{"state":"Gujarat","sector":"Water","total_allocation":1266.73,"event_count":5,"avg_allocation":253.346,"diff":1,"time":1772296039784}
+{"state":"Maharashtra","sector":"Transport","total_allocation":2753.32,"event_count":4,"avg_allocation":688.33,"diff":-1,"time":1772296040240}
+{"state":"Maharashtra","sector":"Transport","total_allocation":3721.7,"event_count":5,"avg_allocation":744.3399999999999,"diff":1,"time":1772296040240}
+{"state":"West Bengal","sector":"Transport","total_allocation":13130.16,"event_count":5,"avg_allocation":2626.032,"diff":-1,"time":1772296042784}
+{"state":"West Bengal","sector":"Transport","total_allocation":13863.18,"event_count":6,"avg_allocation":2310.53,"diff":1,"time":1772296042784}
+{"state":"Kerala","sector":"Sanitation","total_allocation":4736.73,"event_count":1,"avg_allocation":4736.73,"diff":-1,"time":1772296044284}
+{"state":"Kerala","sector":"Sanitation","total_allocation":4912.45,"event_count":2,"avg_allocation":2456.225,"diff":1,"time":1772296044284}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":1378.42,"event_count":4,"avg_allocation":344.605,"diff":-1,"time":1772296045784}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":1808.6299999999999,"event_count":5,"avg_allocation":361.726,"diff":1,"time":1772296045784}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":7358.070000000001,"event_count":9,"avg_allocation":817.5633333333334,"diff":-1,"time":1772296047284}
+{"state":"Uttar Pradesh","sector":"Water","total_allocation":7735.150000000001,"event_count":10,"avg_allocation":773.5150000000001,"diff":1,"time":1772296047284}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":1808.6299999999999,"event_count":5,"avg_allocation":361.726,"diff":-1,"time":1772296048784}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":2022.55,"event_count":6,"avg_allocation":337.09166666666664,"diff":1,"time":1772296048784}
+{"state":"Gujarat","sector":"Electricity","total_allocation":677.07,"event_count":1,"avg_allocation":677.07,"diff":-1,"time":1772296050284}
+{"state":"Gujarat","sector":"Electricity","total_allocation":975.76,"event_count":2,"avg_allocation":487.88,"diff":1,"time":1772296050284}
+{"state":"Gujarat","sector":"Education","total_allocation":635.13,"event_count":2,"avg_allocation":317.565,"diff":-1,"time":1772296051784}
+{"state":"Gujarat","sector":"Education","total_allocation":971.56,"event_count":3,"avg_allocation":323.8533333333333,"diff":1,"time":1772296051784}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":1668.68,"event_count":5,"avg_allocation":333.736,"diff":-1,"time":1772296053284}
+{"state":"West Bengal","sector":"Agriculture","total_allocation":2191.9700000000003,"event_count":6,"avg_allocation":365.3283333333334,"diff":1,"time":1772296053284}
+{"state":"Gujarat","sector":"Water","total_allocation":1266.73,"event_count":5,"avg_allocation":253.346,"diff":-1,"time":1772296054784}
+{"state":"Gujarat","sector":"Water","total_allocation":1627.5,"event_count":6,"avg_allocation":271.25,"diff":1,"time":1772296054784}
+{"state":"Kerala","sector":"Renewable Energy","total_allocation":1464.84,"event_count":1,"avg_allocation":1464.84,"diff":-1,"time":1772296056284}
+{"state":"Kerala","sector":"Renewable Energy","total_allocation":1891.4099999999999,"event_count":2,"avg_allocation":945.7049999999999,"diff":1,"time":1772296056284}
+{"state":"Telangana","sector":"Electricity","total_allocation":6951.96,"event_count":3,"avg_allocation":2317.32,"diff":-1,"time":1772296057784}
+{"state":"Telangana","sector":"Electricity","total_allocation":7532.969999999999,"event_count":4,"avg_allocation":1883.2424999999998,"diff":1,"time":1772296057784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":5712.8,"event_count":8,"avg_allocation":714.1,"diff":-1,"time":1772296059284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":6311.71,"event_count":9,"avg_allocation":701.3011111111111,"diff":1,"time":1772296059284}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":16245.31,"event_count":3,"avg_allocation":5415.1033333333335,"diff":-1,"time":1772296060784}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":24195.86,"event_count":4,"avg_allocation":6048.965,"diff":1,"time":1772296060784}
+{"state":"Gujarat","sector":"Education","total_allocation":971.56,"event_count":3,"avg_allocation":323.8533333333333,"diff":-1,"time":1772296062284}
+{"state":"Gujarat","sector":"Education","total_allocation":3478.79,"event_count":4,"avg_allocation":869.6975,"diff":1,"time":1772296062284}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":47793.84,"event_count":6,"avg_allocation":7965.639999999999,"diff":-1,"time":1772296063784}
+{"state":"Gujarat","sector":"Renewable Energy","total_allocation":48663.83,"event_count":7,"avg_allocation":6951.975714285714,"diff":1,"time":1772296063784}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":20950.67,"event_count":5,"avg_allocation":4190.134,"diff":-1,"time":1772296065284}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":21429.85,"event_count":6,"avg_allocation":3571.6416666666664,"diff":1,"time":1772296065284}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":4666.07,"event_count":1,"avg_allocation":4666.07,"diff":-1,"time":1772296066784}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":4926.34,"event_count":2,"avg_allocation":2463.17,"diff":1,"time":1772296066784}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":406.95,"event_count":2,"avg_allocation":203.475,"diff":-1,"time":1772296068284}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":745.16,"event_count":3,"avg_allocation":248.38666666666666,"diff":1,"time":1772296068284}
+{"state":"West Bengal","sector":"Education","total_allocation":487.32000000000005,"event_count":2,"avg_allocation":243.66000000000003,"diff":-1,"time":1772296069784}
+{"state":"West Bengal","sector":"Education","total_allocation":766.0,"event_count":3,"avg_allocation":255.33333333333334,"diff":1,"time":1772296069784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":5894.650000000001,"event_count":7,"avg_allocation":842.0928571428573,"diff":-1,"time":1772296071284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":6124.87,"event_count":8,"avg_allocation":765.60875,"diff":1,"time":1772296071284}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":775.88,"event_count":4,"avg_allocation":193.97,"diff":-1,"time":1772296072784}
+{"state":"Andhra Pradesh","sector":"Education","total_allocation":1023.54,"event_count":5,"avg_allocation":204.708,"diff":1,"time":1772296072784}
+{"state":"Karnataka","sector":"Water","total_allocation":4894.74,"event_count":8,"avg_allocation":611.8425,"diff":-1,"time":1772296074284}
+{"state":"Karnataka","sector":"Water","total_allocation":5081.780000000001,"event_count":9,"avg_allocation":564.6422222222222,"diff":1,"time":1772296074284}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":23069.38,"event_count":4,"avg_allocation":5767.345,"diff":-1,"time":1772296075784}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":23511.29,"event_count":5,"avg_allocation":4702.258,"diff":1,"time":1772296075784}
+{"state":"Uttar Pradesh","sector":"Transport","total_allocation":1416.23,"event_count":2,"avg_allocation":708.115,"diff":-1,"time":1772296077284}
+{"state":"Uttar Pradesh","sector":"Transport","total_allocation":2344.77,"event_count":3,"avg_allocation":781.59,"diff":1,"time":1772296077284}
+{"state":"Telangana","sector":"Transport","total_allocation":2779.56,"event_count":3,"avg_allocation":926.52,"diff":-1,"time":1772296078784}
+{"state":"Telangana","sector":"Transport","total_allocation":3792.1,"event_count":4,"avg_allocation":948.025,"diff":1,"time":1772296078784}
+{"state":"West Bengal","sector":"Electricity","total_allocation":2738.55,"event_count":5,"avg_allocation":547.71,"diff":-1,"time":1772296080284}
+{"state":"West Bengal","sector":"Electricity","total_allocation":3446.5899999999997,"event_count":6,"avg_allocation":574.4316666666666,"diff":1,"time":1772296080284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":1093.82,"event_count":2,"avg_allocation":546.91,"diff":-1,"time":1772296081784}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":1711.52,"event_count":3,"avg_allocation":570.5066666666667,"diff":1,"time":1772296081784}
+{"state":"Andhra Pradesh","sector":"Sanitation","total_allocation":378.03999999999996,"event_count":2,"avg_allocation":189.01999999999998,"diff":-1,"time":1772296083284}
+{"state":"Andhra Pradesh","sector":"Sanitation","total_allocation":513.4399999999999,"event_count":3,"avg_allocation":171.14666666666665,"diff":1,"time":1772296083284}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":316.9,"event_count":2,"avg_allocation":158.45,"diff":-1,"time":1772296084784}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":486.83000000000004,"event_count":3,"avg_allocation":162.27666666666667,"diff":1,"time":1772296084784}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":1748.77,"event_count":2,"avg_allocation":874.385,"diff":-1,"time":1772296086284}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":2568.99,"event_count":3,"avg_allocation":856.3299999999999,"diff":1,"time":1772296086284}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":4926.34,"event_count":2,"avg_allocation":2463.17,"diff":-1,"time":1772296087784}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":5422.88,"event_count":3,"avg_allocation":1807.6266666666668,"diff":1,"time":1772296087784}
+{"state":"Telangana","sector":"Sanitation","total_allocation":4658.74,"event_count":5,"avg_allocation":931.7479999999999,"diff":-1,"time":1772296089284}
+{"state":"Telangana","sector":"Sanitation","total_allocation":4826.01,"event_count":6,"avg_allocation":804.335,"diff":1,"time":1772296089284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":1711.52,"event_count":3,"avg_allocation":570.5066666666667,"diff":-1,"time":1772296090784}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":2384.49,"event_count":4,"avg_allocation":596.1225,"diff":1,"time":1772296090784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":2948.08,"event_count":7,"avg_allocation":421.1542857142857,"diff":-1,"time":1772296092284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":6360.6900000000005,"event_count":8,"avg_allocation":795.0862500000001,"diff":1,"time":1772296092284}
+{"state":"Rajasthan","sector":"Water","total_allocation":416.67,"event_count":1,"avg_allocation":416.67,"diff":-1,"time":1772296093784}
+{"state":"Rajasthan","sector":"Water","total_allocation":632.63,"event_count":2,"avg_allocation":316.315,"diff":1,"time":1772296093784}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":2207.52,"event_count":4,"avg_allocation":551.88,"diff":-1,"time":1772296095284}
+{"state":"Uttar Pradesh","sector":"Electricity","total_allocation":2693.66,"event_count":5,"avg_allocation":538.732,"diff":1,"time":1772296095284}
+{"state":"Kerala","sector":"Agriculture","total_allocation":1635.7800000000002,"event_count":3,"avg_allocation":545.2600000000001,"diff":-1,"time":1772296096784}
+{"state":"Kerala","sector":"Agriculture","total_allocation":2062.55,"event_count":4,"avg_allocation":515.6375,"diff":1,"time":1772296096784}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":2384.49,"event_count":4,"avg_allocation":596.1225,"diff":-1,"time":1772296098284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":2858.19,"event_count":5,"avg_allocation":571.638,"diff":1,"time":1772296098284}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":24195.86,"event_count":4,"avg_allocation":6048.965,"diff":-1,"time":1772296099784}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":24535.75,"event_count":5,"avg_allocation":4907.15,"diff":1,"time":1772296099784}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":2136.87,"event_count":4,"avg_allocation":534.2175,"diff":-1,"time":1772296101284}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":2803.9500000000003,"event_count":5,"avg_allocation":560.7900000000001,"diff":1,"time":1772296101284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":3960.43,"event_count":8,"avg_allocation":495.05375,"diff":-1,"time":1772296102784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":4393.3,"event_count":9,"avg_allocation":488.14444444444445,"diff":1,"time":1772296102784}
+{"state":"Karnataka","sector":"Transport","total_allocation":2521.18,"event_count":3,"avg_allocation":840.3933333333333,"diff":-1,"time":1772296104284}
+{"state":"Karnataka","sector":"Transport","total_allocation":3138.89,"event_count":4,"avg_allocation":784.7225,"diff":1,"time":1772296104284}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":1144.65,"event_count":3,"avg_allocation":381.55,"diff":-1,"time":1772296105784}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":1689.08,"event_count":4,"avg_allocation":422.27,"diff":1,"time":1772296105784}
+{"state":"Gujarat","sector":"Water","total_allocation":1627.5,"event_count":6,"avg_allocation":271.25,"diff":-1,"time":1772296107284}
+{"state":"Gujarat","sector":"Water","total_allocation":1741.33,"event_count":7,"avg_allocation":248.76142857142855,"diff":1,"time":1772296107284}
+{"state":"Tamil Nadu","sector":"Agriculture","total_allocation":290.15,"event_count":1,"avg_allocation":290.15,"diff":1,"time":1772296108784}
+{"state":"Gujarat","sector":"Water","total_allocation":1741.33,"event_count":7,"avg_allocation":248.76142857142855,"diff":-1,"time":1772296110284}
+{"state":"Gujarat","sector":"Water","total_allocation":2174.39,"event_count":8,"avg_allocation":271.79875,"diff":1,"time":1772296110284}
+{"state":"Karnataka","sector":"Water","total_allocation":5081.780000000001,"event_count":9,"avg_allocation":564.6422222222222,"diff":-1,"time":1772296111784}
+{"state":"Karnataka","sector":"Water","total_allocation":5491.4400000000005,"event_count":10,"avg_allocation":549.144,"diff":1,"time":1772296111784}
+{"state":"Karnataka","sector":"Education","total_allocation":1176.35,"event_count":5,"avg_allocation":235.26999999999998,"diff":-1,"time":1772296113284}
+{"state":"Karnataka","sector":"Education","total_allocation":1357.28,"event_count":6,"avg_allocation":226.21333333333334,"diff":1,"time":1772296113284}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":1603.5,"event_count":2,"avg_allocation":801.75,"diff":-1,"time":1772296114784}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":2591.11,"event_count":3,"avg_allocation":863.7033333333334,"diff":1,"time":1772296114784}
+{"state":"Telangana","sector":"Electricity","total_allocation":7532.969999999999,"event_count":4,"avg_allocation":1883.2424999999998,"diff":-1,"time":1772296116284}
+{"state":"Telangana","sector":"Electricity","total_allocation":7811.5599999999995,"event_count":5,"avg_allocation":1562.312,"diff":1,"time":1772296116284}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":622.96,"event_count":2,"avg_allocation":311.48,"diff":-1,"time":1772296117784}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":1146.12,"event_count":3,"avg_allocation":382.03999999999996,"diff":1,"time":1772296117784}
+{"state":"Karnataka","sector":"Water","total_allocation":5491.4400000000005,"event_count":10,"avg_allocation":549.144,"diff":-1,"time":1772296119284}
+{"state":"Karnataka","sector":"Water","total_allocation":5907.21,"event_count":11,"avg_allocation":537.0190909090909,"diff":1,"time":1772296119284}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":2568.99,"event_count":3,"avg_allocation":856.3299999999999,"diff":-1,"time":1772296120784}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":3744.6099999999997,"event_count":4,"avg_allocation":936.1524999999999,"diff":1,"time":1772296120784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":4393.3,"event_count":9,"avg_allocation":488.14444444444445,"diff":-1,"time":1772296122284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":5041.78,"event_count":10,"avg_allocation":504.178,"diff":1,"time":1772296122284}
+{"state":"West Bengal","sector":"Water","total_allocation":1362.79,"event_count":5,"avg_allocation":272.558,"diff":-1,"time":1772296123784}
+{"state":"West Bengal","sector":"Water","total_allocation":8660.15,"event_count":6,"avg_allocation":1443.3583333333333,"diff":1,"time":1772296123784}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":2803.9500000000003,"event_count":5,"avg_allocation":560.7900000000001,"diff":-1,"time":1772296125284}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":3788.3900000000003,"event_count":6,"avg_allocation":631.3983333333334,"diff":1,"time":1772296125284}
+{"state":"Gujarat","sector":"Transport","total_allocation":4392.96,"event_count":5,"avg_allocation":878.592,"diff":-1,"time":1772296126784}
+{"state":"Gujarat","sector":"Transport","total_allocation":5133.47,"event_count":6,"avg_allocation":855.5783333333334,"diff":1,"time":1772296126784}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":3788.3900000000003,"event_count":6,"avg_allocation":631.3983333333334,"diff":-1,"time":1772296128284}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":4030.11,"event_count":7,"avg_allocation":575.73,"diff":1,"time":1772296128284}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":1087.81,"event_count":2,"avg_allocation":543.905,"diff":-1,"time":1772296129784}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":1457.15,"event_count":3,"avg_allocation":485.7166666666667,"diff":1,"time":1772296129784}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":19598.420000000002,"event_count":4,"avg_allocation":4899.6050000000005,"diff":-1,"time":1772296131284}
+{"state":"Rajasthan","sector":"Renewable Energy","total_allocation":20642.420000000002,"event_count":5,"avg_allocation":4128.484,"diff":1,"time":1772296131284}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":745.16,"event_count":3,"avg_allocation":248.38666666666666,"diff":-1,"time":1772296132784}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":4090.06,"event_count":4,"avg_allocation":1022.515,"diff":1,"time":1772296132784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":5041.78,"event_count":10,"avg_allocation":504.178,"diff":-1,"time":1772296134284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":5737.43,"event_count":11,"avg_allocation":521.5845454545455,"diff":1,"time":1772296134284}
+{"state":"Kerala","sector":"Healthcare","total_allocation":5640.25,"event_count":4,"avg_allocation":1410.0625,"diff":-1,"time":1772296135784}
+{"state":"Kerala","sector":"Healthcare","total_allocation":6220.87,"event_count":5,"avg_allocation":1244.174,"diff":1,"time":1772296135784}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":4090.06,"event_count":4,"avg_allocation":1022.515,"diff":-1,"time":1772296137284}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":4175.4400000000005,"event_count":5,"avg_allocation":835.0880000000001,"diff":1,"time":1772296137284}
+{"state":"Andhra Pradesh","sector":"Healthcare","total_allocation":544.32,"event_count":1,"avg_allocation":544.32,"diff":-1,"time":1772296138784}
+{"state":"Andhra Pradesh","sector":"Healthcare","total_allocation":1003.85,"event_count":2,"avg_allocation":501.925,"diff":1,"time":1772296138784}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":5127.72,"event_count":3,"avg_allocation":1709.24,"diff":-1,"time":1772296140284}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":11056.73,"event_count":4,"avg_allocation":2764.1825,"diff":1,"time":1772296140284}
+{"state":"Kerala","sector":"Electricity","total_allocation":2300.18,"event_count":5,"avg_allocation":460.03599999999994,"diff":-1,"time":1772296141784}
+{"state":"Kerala","sector":"Electricity","total_allocation":2516.3,"event_count":6,"avg_allocation":419.3833333333334,"diff":1,"time":1772296141784}
+{"state":"Telangana","sector":"Transport","total_allocation":3792.1,"event_count":4,"avg_allocation":948.025,"diff":-1,"time":1772296143284}
+{"state":"Telangana","sector":"Transport","total_allocation":4459.86,"event_count":5,"avg_allocation":891.972,"diff":1,"time":1772296143284}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":738.82,"event_count":3,"avg_allocation":246.27333333333334,"diff":-1,"time":1772296144784}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":3431.53,"event_count":4,"avg_allocation":857.8825,"diff":1,"time":1772296144784}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":1146.12,"event_count":3,"avg_allocation":382.03999999999996,"diff":-1,"time":1772296146284}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":1621.99,"event_count":4,"avg_allocation":405.4975,"diff":1,"time":1772296146284}
+{"state":"Rajasthan","sector":"Water","total_allocation":632.63,"event_count":2,"avg_allocation":316.315,"diff":-1,"time":1772296147784}
+{"state":"Rajasthan","sector":"Water","total_allocation":1072.3500000000001,"event_count":3,"avg_allocation":357.45000000000005,"diff":1,"time":1772296147784}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":4175.4400000000005,"event_count":5,"avg_allocation":835.0880000000001,"diff":-1,"time":1772296149284}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":8107.43,"event_count":6,"avg_allocation":1351.2383333333335,"diff":1,"time":1772296149284}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":11056.73,"event_count":4,"avg_allocation":2764.1825,"diff":-1,"time":1772296150784}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":16789.29,"event_count":5,"avg_allocation":3357.858,"diff":1,"time":1772296150784}
+{"state":"Maharashtra","sector":"Transport","total_allocation":3721.7,"event_count":5,"avg_allocation":744.3399999999999,"diff":-1,"time":1772296152284}
+{"state":"Maharashtra","sector":"Transport","total_allocation":4785.1,"event_count":6,"avg_allocation":797.5166666666668,"diff":1,"time":1772296152284}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":486.83000000000004,"event_count":3,"avg_allocation":162.27666666666667,"diff":-1,"time":1772296153784}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":751.83,"event_count":4,"avg_allocation":187.9575,"diff":1,"time":1772296153784}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":3431.53,"event_count":4,"avg_allocation":857.8825,"diff":-1,"time":1772296155284}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":3586.44,"event_count":5,"avg_allocation":717.288,"diff":1,"time":1772296155284}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":754.17,"event_count":1,"avg_allocation":754.17,"diff":-1,"time":1772296156784}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":1075.4,"event_count":2,"avg_allocation":537.7,"diff":1,"time":1772296156784}
+{"state":"Maharashtra","sector":"Water","total_allocation":6311.8099999999995,"event_count":3,"avg_allocation":2103.9366666666665,"diff":-1,"time":1772296158284}
+{"state":"Maharashtra","sector":"Water","total_allocation":6506.76,"event_count":4,"avg_allocation":1626.69,"diff":1,"time":1772296158284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":6360.6900000000005,"event_count":8,"avg_allocation":795.0862500000001,"diff":-1,"time":1772296159784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":9829.77,"event_count":9,"avg_allocation":1092.1966666666667,"diff":1,"time":1772296159784}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":21429.85,"event_count":6,"avg_allocation":3571.6416666666664,"diff":-1,"time":1772296161284}
+{"state":"Telangana","sector":"Renewable Energy","total_allocation":22507.05,"event_count":7,"avg_allocation":3215.292857142857,"diff":1,"time":1772296161284}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":5422.88,"event_count":3,"avg_allocation":1807.6266666666668,"diff":-1,"time":1772296162784}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":5810.29,"event_count":4,"avg_allocation":1452.5725,"diff":1,"time":1772296162784}
+{"state":"Rajasthan","sector":"Education","total_allocation":3194.77,"event_count":5,"avg_allocation":638.954,"diff":-1,"time":1772296164284}
+{"state":"Rajasthan","sector":"Education","total_allocation":3414.44,"event_count":6,"avg_allocation":569.0733333333334,"diff":1,"time":1772296164284}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":1075.4,"event_count":2,"avg_allocation":537.7,"diff":-1,"time":1772296165784}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":1315.31,"event_count":3,"avg_allocation":438.43666666666667,"diff":1,"time":1772296165784}
+{"state":"Tamil Nadu","sector":"Healthcare","total_allocation":556.33,"event_count":2,"avg_allocation":278.165,"diff":-1,"time":1772296167284}
+{"state":"Tamil Nadu","sector":"Healthcare","total_allocation":1109.74,"event_count":3,"avg_allocation":369.91333333333336,"diff":1,"time":1772296167284}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":1315.31,"event_count":3,"avg_allocation":438.43666666666667,"diff":-1,"time":1772296168784}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":1529.73,"event_count":4,"avg_allocation":382.4325,"diff":1,"time":1772296168784}
+{"state":"Telangana","sector":"Electricity","total_allocation":7811.5599999999995,"event_count":5,"avg_allocation":1562.312,"diff":-1,"time":1772296170284}
+{"state":"Telangana","sector":"Electricity","total_allocation":8355.119999999999,"event_count":6,"avg_allocation":1392.5199999999998,"diff":1,"time":1772296170284}
+{"state":"West Bengal","sector":"Water","total_allocation":8660.15,"event_count":6,"avg_allocation":1443.3583333333333,"diff":-1,"time":1772296171784}
+{"state":"West Bengal","sector":"Water","total_allocation":9153.8,"event_count":7,"avg_allocation":1307.685714285714,"diff":1,"time":1772296171784}
+{"state":"Gujarat","sector":"Water","total_allocation":2174.39,"event_count":8,"avg_allocation":271.79875,"diff":-1,"time":1772296173284}
+{"state":"Gujarat","sector":"Water","total_allocation":2536.84,"event_count":9,"avg_allocation":281.87111111111113,"diff":1,"time":1772296173284}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":24535.75,"event_count":5,"avg_allocation":4907.15,"diff":-1,"time":1772296174784}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":27870.3,"event_count":6,"avg_allocation":4645.05,"diff":1,"time":1772296174784}
+{"state":"Andhra Pradesh","sector":"Healthcare","total_allocation":1003.85,"event_count":2,"avg_allocation":501.925,"diff":-1,"time":1772296176284}
+{"state":"Andhra Pradesh","sector":"Healthcare","total_allocation":1160.72,"event_count":3,"avg_allocation":386.9066666666667,"diff":1,"time":1772296176284}
+{"state":"Maharashtra","sector":"Education","total_allocation":4425.53,"event_count":7,"avg_allocation":632.2185714285714,"diff":-1,"time":1772296177784}
+{"state":"Maharashtra","sector":"Education","total_allocation":4572.13,"event_count":8,"avg_allocation":571.51625,"diff":1,"time":1772296177784}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":2858.19,"event_count":5,"avg_allocation":571.638,"diff":-1,"time":1772296179284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":3513.52,"event_count":6,"avg_allocation":585.5866666666667,"diff":1,"time":1772296179284}
+{"state":"Gujarat","sector":"Water","total_allocation":2536.84,"event_count":9,"avg_allocation":281.87111111111113,"diff":-1,"time":1772296180784}
+{"state":"Gujarat","sector":"Water","total_allocation":2719.6,"event_count":10,"avg_allocation":271.96,"diff":1,"time":1772296180784}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":27870.3,"event_count":6,"avg_allocation":4645.05,"diff":-1,"time":1772296182284}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":28449.3,"event_count":7,"avg_allocation":4064.1857142857143,"diff":1,"time":1772296182284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":3513.52,"event_count":6,"avg_allocation":585.5866666666667,"diff":-1,"time":1772296183784}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":4078.36,"event_count":7,"avg_allocation":582.6228571428571,"diff":1,"time":1772296183784}
+{"state":"Rajasthan","sector":"Education","total_allocation":3414.44,"event_count":6,"avg_allocation":569.0733333333334,"diff":-1,"time":1772296185284}
+{"state":"Rajasthan","sector":"Education","total_allocation":3718.5099999999998,"event_count":7,"avg_allocation":531.2157142857143,"diff":1,"time":1772296185284}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":708.78,"event_count":4,"avg_allocation":177.195,"diff":-1,"time":1772296186784}
+{"state":"Gujarat","sector":"Sanitation","total_allocation":936.34,"event_count":5,"avg_allocation":187.268,"diff":1,"time":1772296186784}
+{"state":"Rajasthan","sector":"Transport","total_allocation":3224.26,"event_count":4,"avg_allocation":806.065,"diff":-1,"time":1772296188284}
+{"state":"Rajasthan","sector":"Transport","total_allocation":4127.22,"event_count":5,"avg_allocation":825.4440000000001,"diff":1,"time":1772296188284}
+{"state":"Rajasthan","sector":"Water","total_allocation":1072.3500000000001,"event_count":3,"avg_allocation":357.45000000000005,"diff":-1,"time":1772296189784}
+{"state":"Rajasthan","sector":"Water","total_allocation":1423.1000000000001,"event_count":4,"avg_allocation":355.77500000000003,"diff":1,"time":1772296189784}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":1457.15,"event_count":3,"avg_allocation":485.7166666666667,"diff":-1,"time":1772296191284}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":1801.95,"event_count":4,"avg_allocation":450.4875,"diff":1,"time":1772296191284}
+{"state":"Telangana","sector":"Sanitation","total_allocation":4826.01,"event_count":6,"avg_allocation":804.335,"diff":-1,"time":1772296192784}
+{"state":"Telangana","sector":"Sanitation","total_allocation":5104.35,"event_count":7,"avg_allocation":729.1928571428572,"diff":1,"time":1772296192784}
+{"state":"Gujarat","sector":"Transport","total_allocation":5133.47,"event_count":6,"avg_allocation":855.5783333333334,"diff":-1,"time":1772296194284}
+{"state":"Gujarat","sector":"Transport","total_allocation":5690.17,"event_count":7,"avg_allocation":812.8814285714286,"diff":1,"time":1772296194284}
+{"state":"Kerala","sector":"Renewable Energy","total_allocation":1891.4099999999999,"event_count":2,"avg_allocation":945.7049999999999,"diff":-1,"time":1772296195784}
+{"state":"Kerala","sector":"Renewable Energy","total_allocation":2433.0499999999997,"event_count":3,"avg_allocation":811.0166666666665,"diff":1,"time":1772296195784}
+{"state":"Maharashtra","sector":"Education","total_allocation":4572.13,"event_count":8,"avg_allocation":571.51625,"diff":-1,"time":1772296197284}
+{"state":"Maharashtra","sector":"Education","total_allocation":4801.71,"event_count":9,"avg_allocation":533.5233333333333,"diff":1,"time":1772296197284}
+{"state":"Karnataka","sector":"Education","total_allocation":1357.28,"event_count":6,"avg_allocation":226.21333333333334,"diff":-1,"time":1772296198784}
+{"state":"Karnataka","sector":"Education","total_allocation":1653.83,"event_count":7,"avg_allocation":236.26142857142855,"diff":1,"time":1772296198784}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":578.79,"event_count":3,"avg_allocation":192.92999999999998,"diff":-1,"time":1772296200284}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":867.2,"event_count":4,"avg_allocation":216.8,"diff":1,"time":1772296200284}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":1621.99,"event_count":4,"avg_allocation":405.4975,"diff":-1,"time":1772296201784}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":1786.0,"event_count":5,"avg_allocation":357.2,"diff":1,"time":1772296201784}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":1801.95,"event_count":4,"avg_allocation":450.4875,"diff":-1,"time":1772296203284}
+{"state":"Tamil Nadu","sector":"Electricity","total_allocation":2048.5,"event_count":5,"avg_allocation":409.7,"diff":1,"time":1772296203284}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":9829.77,"event_count":9,"avg_allocation":1092.1966666666667,"diff":-1,"time":1772296204784}
+{"state":"Uttar Pradesh","sector":"Healthcare","total_allocation":15422.73,"event_count":10,"avg_allocation":1542.273,"diff":1,"time":1772296204784}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":8107.43,"event_count":6,"avg_allocation":1351.2383333333335,"diff":-1,"time":1772296206284}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":8377.119999999999,"event_count":7,"avg_allocation":1196.7314285714285,"diff":1,"time":1772296206284}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":1183.97,"event_count":5,"avg_allocation":236.794,"diff":-1,"time":1772296207784}
+{"state":"Tamil Nadu","sector":"Water","total_allocation":1441.63,"event_count":6,"avg_allocation":240.27166666666668,"diff":1,"time":1772296207784}
+{"state":"Telangana","sector":"Water","total_allocation":518.17,"event_count":3,"avg_allocation":172.72333333333333,"diff":-1,"time":1772296209284}
+{"state":"Telangana","sector":"Water","total_allocation":932.93,"event_count":4,"avg_allocation":233.2325,"diff":1,"time":1772296209284}
+{"state":"West Bengal","sector":"Water","total_allocation":9153.8,"event_count":7,"avg_allocation":1307.685714285714,"diff":-1,"time":1772296210784}
+{"state":"West Bengal","sector":"Water","total_allocation":9314.19,"event_count":8,"avg_allocation":1164.27375,"diff":1,"time":1772296210784}
+{"state":"Gujarat","sector":"Water","total_allocation":2719.6,"event_count":10,"avg_allocation":271.96,"diff":-1,"time":1772296212284}
+{"state":"Gujarat","sector":"Water","total_allocation":2864.9,"event_count":11,"avg_allocation":260.44545454545454,"diff":1,"time":1772296212284}
+{"state":"Karnataka","sector":"Water","total_allocation":5907.21,"event_count":11,"avg_allocation":537.0190909090909,"diff":-1,"time":1772296213784}
+{"state":"Karnataka","sector":"Water","total_allocation":6172.51,"event_count":12,"avg_allocation":514.3758333333334,"diff":1,"time":1772296213784}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":1689.08,"event_count":4,"avg_allocation":422.27,"diff":-1,"time":1772296215284}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":2077.1,"event_count":5,"avg_allocation":415.41999999999996,"diff":1,"time":1772296215284}
+{"state":"Gujarat","sector":"Water","total_allocation":2864.9,"event_count":11,"avg_allocation":260.44545454545454,"diff":-1,"time":1772296216784}
+{"state":"Gujarat","sector":"Water","total_allocation":3106.75,"event_count":12,"avg_allocation":258.8958333333333,"diff":1,"time":1772296216784}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":1529.73,"event_count":4,"avg_allocation":382.4325,"diff":-1,"time":1772296218284}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":2064.45,"event_count":5,"avg_allocation":412.89,"diff":1,"time":1772296218284}
+{"state":"Karnataka","sector":"Sanitation","total_allocation":409.84000000000003,"event_count":2,"avg_allocation":204.92000000000002,"diff":-1,"time":1772296219784}
+{"state":"Karnataka","sector":"Sanitation","total_allocation":586.24,"event_count":3,"avg_allocation":195.41333333333333,"diff":1,"time":1772296219784}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":4166.81,"event_count":9,"avg_allocation":462.97888888888895,"diff":-1,"time":1772296221284}
+{"state":"Andhra Pradesh","sector":"Agriculture","total_allocation":4400.05,"event_count":10,"avg_allocation":440.005,"diff":1,"time":1772296221284}
+{"state":"Tamil Nadu","sector":"Transport","total_allocation":1477.88,"event_count":2,"avg_allocation":738.94,"diff":-1,"time":1772296222784}
+{"state":"Tamil Nadu","sector":"Transport","total_allocation":2576.39,"event_count":3,"avg_allocation":858.7966666666666,"diff":1,"time":1772296222784}
+{"state":"Tamil Nadu","sector":"Sanitation","total_allocation":214.5,"event_count":1,"avg_allocation":214.5,"diff":1,"time":1772296224284}
+{"state":"Gujarat","sector":"Transport","total_allocation":5690.17,"event_count":7,"avg_allocation":812.8814285714286,"diff":-1,"time":1772296225784}
+{"state":"Gujarat","sector":"Transport","total_allocation":21529.68,"event_count":8,"avg_allocation":2691.21,"diff":1,"time":1772296225784}
+{"state":"Karnataka","sector":"Sanitation","total_allocation":586.24,"event_count":3,"avg_allocation":195.41333333333333,"diff":-1,"time":1772296227284}
+{"state":"Karnataka","sector":"Sanitation","total_allocation":887.11,"event_count":4,"avg_allocation":221.7775,"diff":1,"time":1772296227284}
+{"state":"West Bengal","sector":"Transport","total_allocation":13863.18,"event_count":6,"avg_allocation":2310.53,"diff":-1,"time":1772296228784}
+{"state":"West Bengal","sector":"Transport","total_allocation":14577.039999999999,"event_count":7,"avg_allocation":2082.4342857142856,"diff":1,"time":1772296228784}
+{"state":"Karnataka","sector":"Electricity","total_allocation":622.39,"event_count":1,"avg_allocation":622.39,"diff":-1,"time":1772296230284}
+{"state":"Karnataka","sector":"Electricity","total_allocation":1136.6599999999999,"event_count":2,"avg_allocation":568.3299999999999,"diff":1,"time":1772296230284}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":23511.29,"event_count":5,"avg_allocation":4702.258,"diff":-1,"time":1772296231784}
+{"state":"Maharashtra","sector":"Renewable Energy","total_allocation":24494.38,"event_count":6,"avg_allocation":4082.396666666667,"diff":1,"time":1772296231784}
+{"state":"Telangana","sector":"Sanitation","total_allocation":5104.35,"event_count":7,"avg_allocation":729.1928571428572,"diff":-1,"time":1772296233284}
+{"state":"Telangana","sector":"Sanitation","total_allocation":5388.3,"event_count":8,"avg_allocation":673.5375,"diff":1,"time":1772296233284}
+{"state":"Kerala","sector":"Agriculture","total_allocation":2062.55,"event_count":4,"avg_allocation":515.6375,"diff":-1,"time":1772296234784}
+{"state":"Kerala","sector":"Agriculture","total_allocation":2466.39,"event_count":5,"avg_allocation":493.27799999999996,"diff":1,"time":1772296234784}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":1786.0,"event_count":5,"avg_allocation":357.2,"diff":-1,"time":1772296236284}
+{"state":"Karnataka","sector":"Healthcare","total_allocation":2122.23,"event_count":6,"avg_allocation":353.705,"diff":1,"time":1772296236284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":5737.43,"event_count":11,"avg_allocation":521.5845454545455,"diff":-1,"time":1772296237784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":6001.46,"event_count":12,"avg_allocation":500.12166666666667,"diff":1,"time":1772296237784}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":5810.29,"event_count":4,"avg_allocation":1452.5725,"diff":-1,"time":1772296239284}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":6024.25,"event_count":5,"avg_allocation":1204.85,"diff":1,"time":1772296239284}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":2077.1,"event_count":5,"avg_allocation":415.41999999999996,"diff":-1,"time":1772296240784}
+{"state":"Andhra Pradesh","sector":"Electricity","total_allocation":2586.5299999999997,"event_count":6,"avg_allocation":431.0883333333333,"diff":1,"time":1772296240784}
+{"state":"Gujarat","sector":"Education","total_allocation":3478.79,"event_count":4,"avg_allocation":869.6975,"diff":-1,"time":1772296242284}
+{"state":"Gujarat","sector":"Education","total_allocation":3578.91,"event_count":5,"avg_allocation":715.7819999999999,"diff":1,"time":1772296242284}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":3744.6099999999997,"event_count":4,"avg_allocation":936.1524999999999,"diff":-1,"time":1772296243784}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":5214.42,"event_count":5,"avg_allocation":1042.884,"diff":1,"time":1772296243784}
+{"state":"Telangana","sector":"Transport","total_allocation":4459.86,"event_count":5,"avg_allocation":891.972,"diff":-1,"time":1772296245284}
+{"state":"Telangana","sector":"Transport","total_allocation":5260.62,"event_count":6,"avg_allocation":876.77,"diff":1,"time":1772296245284}
+{"state":"Gujarat","sector":"Education","total_allocation":3578.91,"event_count":5,"avg_allocation":715.7819999999999,"diff":-1,"time":1772296246784}
+{"state":"Gujarat","sector":"Education","total_allocation":3766.62,"event_count":6,"avg_allocation":627.77,"diff":1,"time":1772296246784}
+{"state":"Rajasthan","sector":"Transport","total_allocation":4127.22,"event_count":5,"avg_allocation":825.4440000000001,"diff":-1,"time":1772296248284}
+{"state":"Rajasthan","sector":"Transport","total_allocation":4919.13,"event_count":6,"avg_allocation":819.855,"diff":1,"time":1772296248284}
+{"state":"Andhra Pradesh","sector":"Healthcare","total_allocation":1160.72,"event_count":3,"avg_allocation":386.9066666666667,"diff":-1,"time":1772296249784}
+{"state":"Andhra Pradesh","sector":"Healthcare","total_allocation":1601.23,"event_count":4,"avg_allocation":400.3075,"diff":1,"time":1772296249784}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":4030.11,"event_count":7,"avg_allocation":575.73,"diff":-1,"time":1772296251284}
+{"state":"Rajasthan","sector":"Agriculture","total_allocation":4665.51,"event_count":8,"avg_allocation":583.18875,"diff":1,"time":1772296251284}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":2064.45,"event_count":5,"avg_allocation":412.89,"diff":-1,"time":1772296252784}
+{"state":"Rajasthan","sector":"Electricity","total_allocation":2547.45,"event_count":6,"avg_allocation":424.575,"diff":1,"time":1772296252784}
+{"state":"Karnataka","sector":"Agriculture","total_allocation":549.53,"event_count":1,"avg_allocation":549.53,"diff":-1,"time":1772296254284}
+{"state":"Karnataka","sector":"Agriculture","total_allocation":8574.92,"event_count":2,"avg_allocation":4287.46,"diff":1,"time":1772296254284}
+{"state":"Rajasthan","sector":"Education","total_allocation":3718.5099999999998,"event_count":7,"avg_allocation":531.2157142857143,"diff":-1,"time":1772296255784}
+{"state":"Rajasthan","sector":"Education","total_allocation":4027.62,"event_count":8,"avg_allocation":503.4525,"diff":1,"time":1772296255784}
+{"state":"Telangana","sector":"Agriculture","total_allocation":6001.46,"event_count":12,"avg_allocation":500.12166666666667,"diff":-1,"time":1772296257284}
+{"state":"Telangana","sector":"Agriculture","total_allocation":6465.83,"event_count":13,"avg_allocation":497.3715384615385,"diff":1,"time":1772296257284}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":28449.3,"event_count":7,"avg_allocation":4064.1857142857143,"diff":-1,"time":1772296258784}
+{"state":"Rajasthan","sector":"Healthcare","total_allocation":28776.16,"event_count":8,"avg_allocation":3597.02,"diff":1,"time":1772296258784}
+{"state":"Rajasthan","sector":"Education","total_allocation":4027.62,"event_count":8,"avg_allocation":503.4525,"diff":-1,"time":1772296260284}
+{"state":"Rajasthan","sector":"Education","total_allocation":4409.59,"event_count":9,"avg_allocation":489.95444444444445,"diff":1,"time":1772296260284}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":5214.42,"event_count":5,"avg_allocation":1042.884,"diff":-1,"time":1772296261784}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":6708.75,"event_count":6,"avg_allocation":1118.125,"diff":1,"time":1772296261784}
+{"state":"Karnataka","sector":"Education","total_allocation":1653.83,"event_count":7,"avg_allocation":236.26142857142855,"diff":-1,"time":1772296263284}
+{"state":"Karnataka","sector":"Education","total_allocation":2023.28,"event_count":8,"avg_allocation":252.91,"diff":1,"time":1772296263284}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":6311.71,"event_count":9,"avg_allocation":701.3011111111111,"diff":-1,"time":1772296264784}
+{"state":"Andhra Pradesh","sector":"Transport","total_allocation":6667.29,"event_count":10,"avg_allocation":666.729,"diff":1,"time":1772296264784}
+{"state":"Tamil Nadu","sector":"Agriculture","total_allocation":290.15,"event_count":1,"avg_allocation":290.15,"diff":-1,"time":1772296266284}
+{"state":"Tamil Nadu","sector":"Agriculture","total_allocation":716.26,"event_count":2,"avg_allocation":358.13,"diff":1,"time":1772296266284}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":751.83,"event_count":4,"avg_allocation":187.9575,"diff":-1,"time":1772296267784}
+{"state":"Maharashtra","sector":"Healthcare","total_allocation":1013.94,"event_count":5,"avg_allocation":202.788,"diff":1,"time":1772296267784}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":4078.36,"event_count":7,"avg_allocation":582.6228571428571,"diff":-1,"time":1772296269284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":4476.65,"event_count":8,"avg_allocation":559.58125,"diff":1,"time":1772296269284}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":10597.01,"event_count":4,"avg_allocation":2649.2525,"diff":-1,"time":1772296270784}
+{"state":"Uttar Pradesh","sector":"Agriculture","total_allocation":10950.71,"event_count":5,"avg_allocation":2190.142,"diff":1,"time":1772296270784}
+{"state":"Gujarat","sector":"Transport","total_allocation":21529.68,"event_count":8,"avg_allocation":2691.21,"diff":-1,"time":1772296272284}
+{"state":"Gujarat","sector":"Transport","total_allocation":37332.36,"event_count":9,"avg_allocation":4148.04,"diff":1,"time":1772296272284}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":2022.55,"event_count":6,"avg_allocation":337.09166666666664,"diff":-1,"time":1772296273784}
+{"state":"West Bengal","sector":"Healthcare","total_allocation":2209.24,"event_count":7,"avg_allocation":315.60571428571427,"diff":1,"time":1772296273784}
+{"state":"Telangana","sector":"Healthcare","total_allocation":6124.87,"event_count":8,"avg_allocation":765.60875,"diff":-1,"time":1772296275284}
+{"state":"Telangana","sector":"Healthcare","total_allocation":6567.2300000000005,"event_count":9,"avg_allocation":729.6922222222223,"diff":1,"time":1772296275284}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":3510.0699999999997,"event_count":5,"avg_allocation":702.0139999999999,"diff":-1,"time":1772296276784}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":4951.72,"event_count":6,"avg_allocation":825.2866666666667,"diff":1,"time":1772296276784}
+{"state":"Kerala","sector":"Sanitation","total_allocation":4912.45,"event_count":2,"avg_allocation":2456.225,"diff":-1,"time":1772296278284}
+{"state":"Kerala","sector":"Sanitation","total_allocation":7888.0,"event_count":3,"avg_allocation":2629.3333333333335,"diff":1,"time":1772296278284}
+{"state":"Tamil Nadu","sector":"Agriculture","total_allocation":716.26,"event_count":2,"avg_allocation":358.13,"diff":-1,"time":1772296279784}
+{"state":"Tamil Nadu","sector":"Agriculture","total_allocation":1066.05,"event_count":3,"avg_allocation":355.34999999999997,"diff":1,"time":1772296279784}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":2527.2599999999998,"event_count":5,"avg_allocation":505.45199999999994,"diff":-1,"time":1772296281284}
+{"state":"Maharashtra","sector":"Electricity","total_allocation":3114.8199999999997,"event_count":6,"avg_allocation":519.1366666666667,"diff":1,"time":1772296281284}
+{"state":"Karnataka","sector":"Education","total_allocation":2023.28,"event_count":8,"avg_allocation":252.91,"diff":-1,"time":1772296282784}
+{"state":"Karnataka","sector":"Education","total_allocation":2351.53,"event_count":9,"avg_allocation":261.28111111111116,"diff":1,"time":1772296282784}
+{"state":"Gujarat","sector":"Healthcare","total_allocation":430.46,"event_count":1,"avg_allocation":430.46,"diff":-1,"time":1772296284284}
+{"state":"Gujarat","sector":"Healthcare","total_allocation":1011.5,"event_count":2,"avg_allocation":505.75,"diff":1,"time":1772296284284}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":867.2,"event_count":4,"avg_allocation":216.8,"diff":-1,"time":1772296285784}
+{"state":"West Bengal","sector":"Sanitation","total_allocation":1005.73,"event_count":5,"avg_allocation":201.14600000000002,"diff":1,"time":1772296285784}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":2591.11,"event_count":3,"avg_allocation":863.7033333333334,"diff":-1,"time":1772296287284}
+{"state":"Andhra Pradesh","sector":"Renewable Energy","total_allocation":4050.83,"event_count":4,"avg_allocation":1012.7075,"diff":1,"time":1772296287284}
+{"state":"Karnataka","sector":"Education","total_allocation":2351.53,"event_count":9,"avg_allocation":261.28111111111116,"diff":-1,"time":1772296288784}
+{"state":"Karnataka","sector":"Education","total_allocation":2871.37,"event_count":10,"avg_allocation":287.137,"diff":1,"time":1772296288784}
+{"state":"Andhra Pradesh","sector":"Sanitation","total_allocation":513.4399999999999,"event_count":3,"avg_allocation":171.14666666666665,"diff":-1,"time":1772296290284}
+{"state":"Andhra Pradesh","sector":"Sanitation","total_allocation":769.12,"event_count":4,"avg_allocation":192.28,"diff":1,"time":1772296290284}
+{"state":"West Bengal","sector":"Education","total_allocation":766.0,"event_count":3,"avg_allocation":255.33333333333334,"diff":-1,"time":1772296291784}
+{"state":"West Bengal","sector":"Education","total_allocation":877.69,"event_count":4,"avg_allocation":219.4225,"diff":1,"time":1772296291784}
+{"state":"West Bengal","sector":"Electricity","total_allocation":3446.5899999999997,"event_count":6,"avg_allocation":574.4316666666666,"diff":-1,"time":1772296293284}
+{"state":"West Bengal","sector":"Electricity","total_allocation":3930.99,"event_count":7,"avg_allocation":561.5699999999999,"diff":1,"time":1772296293284}
+{"state":"Tamil Nadu","sector":"Agriculture","total_allocation":1066.05,"event_count":3,"avg_allocation":355.34999999999997,"diff":-1,"time":1772296294784}
+{"state":"Tamil Nadu","sector":"Agriculture","total_allocation":10982.41,"event_count":4,"avg_allocation":2745.6025,"diff":1,"time":1772296294784}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":6708.75,"event_count":6,"avg_allocation":1118.125,"diff":-1,"time":1772296296284}
+{"state":"Uttar Pradesh","sector":"Renewable Energy","total_allocation":8112.0,"event_count":7,"avg_allocation":1158.857142857143,"diff":1,"time":1772296296284}
+{"state":"Gujarat","sector":"Transport","total_allocation":37332.36,"event_count":9,"avg_allocation":4148.04,"diff":-1,"time":1772296297784}
+{"state":"Gujarat","sector":"Transport","total_allocation":37777.03,"event_count":10,"avg_allocation":3777.703,"diff":1,"time":1772296297784}

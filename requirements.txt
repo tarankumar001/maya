@@ -1,0 +1,27 @@
+# Green Bharat — Real-Time Budget Auditor
+# Pathway Streaming + LLM RAG Dependencies
+
+# PDF and Document parsing (required by pathway.xpacks.llm.parsers at import time)
+pdf2image>=1.17.0
+Pillow>=10.0.0
+unstructured>=0.10.0
+python-magic>=0.4.27
+
+# Core streaming engine
+pathway>=0.14.0
+
+# LLM xPack (Pathway-native RAG components)
+pathway[xpack-llm]>=0.14.0
+
+# Web framework for query interface
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+
+# Data validation
+pydantic>=2.0.0
+
+# OpenAI SDK (required by Pathway LLM xPack)
+openai>=1.20.0
+
+# Utilities
+python-dotenv>=1.0.0
