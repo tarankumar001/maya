@@ -520,3 +520,80 @@
 {"state": "Tamil Nadu", "sector": "Electricity", "allocation": 255.51, "contractor": "GreenInfra Ltd", "timestamp": 1772296403}
 {"state": "Telangana", "sector": "Transport", "allocation": 320.25, "contractor": "BharatBuild Corp", "timestamp": 1772296405}
 {"state": "Telangana", "sector": "Transport", "allocation": 858.2, "contractor": "GreenInfra Ltd", "timestamp": 1772296407}
+{"state": "Tamil Nadu", "sector": "Electricity", "allocation": 264.02, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296408}
+{"state": "Andhra Pradesh", "sector": "Transport", "allocation": 829.76, "contractor": "BharatBuild Corp", "timestamp": 1772296410}
+{"state": "Gujarat", "sector": "Education", "allocation": 303.46, "contractor": "HydroForce Inc", "timestamp": 1772296411}
+{"state": "Maharashtra", "sector": "Agriculture", "allocation": 7922.22, "contractor": "HydroForce Inc", "timestamp": 1772296413}
+{"state": "Maharashtra", "sector": "Renewable Energy", "allocation": 604.46, "contractor": "SmartGrid Co", "timestamp": 1772296414}
+{"state": "Uttar Pradesh", "sector": "Water", "allocation": 5121.58, "contractor": "AquaWorks India", "timestamp": 1772296416}
+{"state": "Maharashtra", "sector": "Healthcare", "allocation": 474.04, "contractor": "SunTech Projects", "timestamp": 1772296417}
+{"state": "Tamil Nadu", "sector": "Education", "allocation": 354.45, "contractor": "National Constructions", "timestamp": 1772296419}
+{"state": "Kerala", "sector": "Agriculture", "allocation": 241.4, "contractor": "National Constructions", "timestamp": 1772296420}
+{"state": "Gujarat", "sector": "Water", "allocation": 4113.86, "contractor": "EcoPower Solutions", "timestamp": 1772296422}
+{"state": "Karnataka", "sector": "Agriculture", "allocation": 603.16, "contractor": "AquaWorks India", "timestamp": 1772296423}
+{"state": "Telangana", "sector": "Healthcare", "allocation": 583.56, "contractor": "SunTech Projects", "timestamp": 1772296425}
+{"state": "Rajasthan", "sector": "Electricity", "allocation": 402.43, "contractor": "BharatBuild Corp", "timestamp": 1772296426}
+{"state": "Karnataka", "sector": "Education", "allocation": 172.15, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296428}
+{"state": "Rajasthan", "sector": "Sanitation", "allocation": 106.91, "contractor": "EcoPower Solutions", "timestamp": 1772296429}
+{"state": "Maharashtra", "sector": "Water", "allocation": 3510.86, "contractor": "National Constructions", "timestamp": 1772296431}
+{"state": "Uttar Pradesh", "sector": "Transport", "allocation": 1133.4, "contractor": "EcoPower Solutions", "timestamp": 1772296432}
+{"state": "Andhra Pradesh", "sector": "Transport", "allocation": 870.21, "contractor": "SunTech Projects", "timestamp": 1772296434}
+{"state": "Tamil Nadu", "sector": "Healthcare", "allocation": 354.16, "contractor": "HydroForce Inc", "timestamp": 1772296435}
+{"state": "West Bengal", "sector": "Electricity", "allocation": 480.1, "contractor": "AquaWorks India", "timestamp": 1772296437}
+{"state": "Tamil Nadu", "sector": "Sanitation", "allocation": 118.77, "contractor": "BharatBuild Corp", "timestamp": 1772296438}
+{"state": "Telangana", "sector": "Electricity", "allocation": 620.16, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296440}
+{"state": "Tamil Nadu", "sector": "Healthcare", "allocation": 408.72, "contractor": "TerraBuild Associates", "timestamp": 1772296441}
+{"state": "Telangana", "sector": "Healthcare", "allocation": 427.18, "contractor": "National Constructions", "timestamp": 1772296443}
+{"state": "Rajasthan", "sector": "Education", "allocation": 214.53, "contractor": "SunTech Projects", "timestamp": 1772296444}
+{"state": "Tamil Nadu", "sector": "Education", "allocation": 318.68, "contractor": "GreenInfra Ltd", "timestamp": 1772296446}
+{"state": "Maharashtra", "sector": "Renewable Energy", "allocation": 14719.3, "contractor": "SunTech Projects", "timestamp": 1772296447}
+{"state": "Andhra Pradesh", "sector": "Healthcare", "allocation": 264.22, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296449}
+{"state": "Telangana", "sector": "Agriculture", "allocation": 381.76, "contractor": "AquaWorks India", "timestamp": 1772296450}
+{"state": "Tamil Nadu", "sector": "Electricity", "allocation": 342.62, "contractor": "AquaWorks India", "timestamp": 1772296452}
+{"state": "Andhra Pradesh", "sector": "Agriculture", "allocation": 570.94, "contractor": "BharatBuild Corp", "timestamp": 1772296453}
+{"state": "Telangana", "sector": "Water", "allocation": 140.36, "contractor": "GreenInfra Ltd", "timestamp": 1772296455}
+{"state": "Karnataka", "sector": "Education", "allocation": 309.9, "contractor": "SunTech Projects", "timestamp": 1772296456}
+{"state": "Karnataka", "sector": "Electricity", "allocation": 746.24, "contractor": "SmartGrid Co", "timestamp": 1772296458}
+{"state": "Karnataka", "sector": "Transport", "allocation": 873.4, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296459}
+{"state": "Karnataka", "sector": "Renewable Energy", "allocation": 14557.9, "contractor": "EcoPower Solutions", "timestamp": 1772296461}
+{"state": "Karnataka", "sector": "Sanitation", "allocation": 101.91, "contractor": "GreenInfra Ltd", "timestamp": 1772296462}
+{"state": "Karnataka", "sector": "Electricity", "allocation": 296.31, "contractor": "HydroForce Inc", "timestamp": 1772296464}
+{"state": "Gujarat", "sector": "Agriculture", "allocation": 450.73, "contractor": "National Constructions", "timestamp": 1772296465}
+{"state": "Karnataka", "sector": "Transport", "allocation": 943.97, "contractor": "GreenInfra Ltd", "timestamp": 1772296467}
+{"state": "Uttar Pradesh", "sector": "Agriculture", "allocation": 477.84, "contractor": "HydroForce Inc", "timestamp": 1772296468}
+{"state": "Tamil Nadu", "sector": "Sanitation", "allocation": 265.67, "contractor": "SunTech Projects", "timestamp": 1772296470}
+{"state": "West Bengal", "sector": "Sanitation", "allocation": 334.77, "contractor": "SunTech Projects", "timestamp": 1772296471}
+{"state": "Uttar Pradesh", "sector": "Agriculture", "allocation": 356.72, "contractor": "BharatBuild Corp", "timestamp": 1772296473}
+{"state": "Uttar Pradesh", "sector": "Water", "allocation": 156.14, "contractor": "BharatBuild Corp", "timestamp": 1772296474}
+{"state": "Tamil Nadu", "sector": "Transport", "allocation": 1180.53, "contractor": "TerraBuild Associates", "timestamp": 1772296476}
+{"state": "Rajasthan", "sector": "Electricity", "allocation": 473.32, "contractor": "National Constructions", "timestamp": 1772296477}
+{"state": "Uttar Pradesh", "sector": "Sanitation", "allocation": 2667.96, "contractor": "National Constructions", "timestamp": 1772296479}
+{"state": "Uttar Pradesh", "sector": "Water", "allocation": 5360.78, "contractor": "TerraBuild Associates", "timestamp": 1772296480}
+{"state": "Maharashtra", "sector": "Renewable Energy", "allocation": 653.94, "contractor": "GreenInfra Ltd", "timestamp": 1772296482}
+{"state": "Andhra Pradesh", "sector": "Water", "allocation": 430.22, "contractor": "SunTech Projects", "timestamp": 1772296483}
+{"state": "Andhra Pradesh", "sector": "Sanitation", "allocation": 121.52, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296485}
+{"state": "Karnataka", "sector": "Sanitation", "allocation": 195.66, "contractor": "GreenInfra Ltd", "timestamp": 1772296486}
+{"state": "Maharashtra", "sector": "Agriculture", "allocation": 435.98, "contractor": "AquaWorks India", "timestamp": 1772296488}
+{"state": "Andhra Pradesh", "sector": "Water", "allocation": 375.53, "contractor": "EcoPower Solutions", "timestamp": 1772296490}
+{"state": "Tamil Nadu", "sector": "Agriculture", "allocation": 246.91, "contractor": "EcoPower Solutions", "timestamp": 1772296491}
+{"state": "Gujarat", "sector": "Healthcare", "allocation": 590.81, "contractor": "EcoPower Solutions", "timestamp": 1772296493}
+{"state": "Uttar Pradesh", "sector": "Electricity", "allocation": 220.85, "contractor": "EcoPower Solutions", "timestamp": 1772296494}
+{"state": "Tamil Nadu", "sector": "Agriculture", "allocation": 431.29, "contractor": "AquaWorks India", "timestamp": 1772296496}
+{"state": "Telangana", "sector": "Renewable Energy", "allocation": 1417.14, "contractor": "RoadMaster Pvt Ltd", "timestamp": 1772296497}
+{"state": "Rajasthan", "sector": "Healthcare", "allocation": 150.89, "contractor": "TerraBuild Associates", "timestamp": 1772296499}
+{"state": "Gujarat", "sector": "Transport", "allocation": 637.72, "contractor": "National Constructions", "timestamp": 1772296500}
+{"state": "Gujarat", "sector": "Agriculture", "allocation": 369.52, "contractor": "AquaWorks India", "timestamp": 1772296502}
+{"state": "Kerala", "sector": "Agriculture", "allocation": 331.82, "contractor": "HydroForce Inc", "timestamp": 1772296503}
+{"state": "Maharashtra", "sector": "Renewable Energy", "allocation": 1452.31, "contractor": "National Constructions", "timestamp": 1772296505}
+{"state": "Rajasthan", "sector": "Electricity", "allocation": 591.51, "contractor": "National Constructions", "timestamp": 1772296506}
+{"state": "Kerala", "sector": "Sanitation", "allocation": 272.56, "contractor": "National Constructions", "timestamp": 1772296508}
+{"state": "Maharashtra", "sector": "Transport", "allocation": 1037.68, "contractor": "GreenInfra Ltd", "timestamp": 1772296509}
+{"state": "West Bengal", "sector": "Renewable Energy", "allocation": 501.67, "contractor": "EcoPower Solutions", "timestamp": 1772296511}
+{"state": "Maharashtra", "sector": "Agriculture", "allocation": 678.33, "contractor": "EcoPower Solutions", "timestamp": 1772296512}
+{"state": "Andhra Pradesh", "sector": "Electricity", "allocation": 8613.83, "contractor": "National Constructions", "timestamp": 1772296514}
+{"state": "Gujarat", "sector": "Agriculture", "allocation": 553.06, "contractor": "EcoPower Solutions", "timestamp": 1772296515}
+{"state": "Gujarat", "sector": "Renewable Energy", "allocation": 930.55, "contractor": "BharatBuild Corp", "timestamp": 1772296517}
+{"state": "Telangana", "sector": "Electricity", "allocation": 315.6, "contractor": "HydroForce Inc", "timestamp": 1772296518}
+{"state": "Kerala", "sector": "Water", "allocation": 348.38, "contractor": "HydroForce Inc", "timestamp": 1772296520}
+{"state": "West Bengal", "sector": "Transport", "allocation": 1173.18, "contractor": "AquaWorks India", "timestamp": 1772296521}
+{"state": "Telangana", "sector": "Renewable Energy", "allocation": 448.18, "contractor": "GreenInfra Ltd", "timestamp": 1772296523}
