@@ -927,3 +927,17 @@
 {"state":"Karnataka","sector":"Transport","total_allocation":3442.26,"event_count":5,"avg_allocation":688.452,"diff":1,"time":1772296377284}
 {"state":"Gujarat","sector":"Water","total_allocation":3106.75,"event_count":12,"avg_allocation":258.8958333333333,"diff":-1,"time":1772296378784}
 {"state":"Gujarat","sector":"Water","total_allocation":3442.69,"event_count":13,"avg_allocation":264.8223076923077,"diff":1,"time":1772296378784}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":4476.65,"event_count":8,"avg_allocation":559.58125,"diff":-1,"time":1772296380284}
+{"state":"Gujarat","sector":"Agriculture","total_allocation":5080.18,"event_count":9,"avg_allocation":564.4644444444444,"diff":1,"time":1772296380284}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":20968.170000000002,"event_count":8,"avg_allocation":2621.0212500000002,"diff":-1,"time":1772296381784}
+{"state":"Uttar Pradesh","sector":"Education","total_allocation":21357.96,"event_count":9,"avg_allocation":2373.1066666666666,"diff":1,"time":1772296381784}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":3586.44,"event_count":5,"avg_allocation":717.288,"diff":-1,"time":1772296383284}
+{"state":"Uttar Pradesh","sector":"Sanitation","total_allocation":3773.31,"event_count":6,"avg_allocation":628.885,"diff":1,"time":1772296383284}
+{"state":"Gujarat","sector":"Water","total_allocation":3442.69,"event_count":13,"avg_allocation":264.8223076923077,"diff":-1,"time":1772296386284}
+{"state":"Gujarat","sector":"Water","total_allocation":3922.84,"event_count":14,"avg_allocation":280.20285714285717,"diff":1,"time":1772296386284}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":4951.72,"event_count":6,"avg_allocation":825.2866666666667,"diff":-1,"time":1772296387784}
+{"state":"Karnataka","sector":"Renewable Energy","total_allocation":5378.23,"event_count":7,"avg_allocation":768.3185714285713,"diff":1,"time":1772296387784}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":6403.2,"event_count":6,"avg_allocation":1067.2,"diff":-1,"time":1772296389284}
+{"state":"Maharashtra","sector":"Agriculture","total_allocation":6706.96,"event_count":7,"avg_allocation":958.1371428571429,"diff":1,"time":1772296389284}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":8377.119999999999,"event_count":7,"avg_allocation":1196.7314285714285,"diff":-1,"time":1772296390784}
+{"state":"Rajasthan","sector":"Sanitation","total_allocation":8622.25,"event_count":8,"avg_allocation":1077.78125,"diff":1,"time":1772296390784}
